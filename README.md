@@ -114,7 +114,21 @@
 <tr><td>backports.zoneinfo-0.2.1-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYlZdp">点我下载</a></td></tr>
 </tbody>
 </table>
-9、basemap模块下载列表:
+9、bartender模块下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>bartender-2.4.9-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpdt">点我下载</a></td></tr>
+<tr><td>bartender-2.4.8-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpds">点我下载</a></td></tr>
+<tr><td>bartender-2.4.7-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpdr">点我下载</a></td></tr>
+<tr><td>bartender-2.4.6-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpdq">点我下载</a></td></tr>
+<tr><td>bartender-2.4.5-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpdp">点我下载</a></td></tr>
+<tr><td>bartender-2.4.4-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlpZy">点我下载</a></td></tr>
+<tr><td>bartender-2.4.3-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlpZx">点我下载</a></td></tr>
+<tr><td>bartender-2.4.2-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlpZw">点我下载</a></td></tr>
+</tbody>
+</table>
+10、basemap模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -204,7 +218,7 @@
 <tr><td>basemap-1.2.0-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyVmZZv">点我下载</a></td></tr>
 </tbody>
 </table>
-10、bcolz模块下载列表:
+11、bcolz模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -227,7 +241,7 @@
 <tr><td>bcolz-1.2.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYlZpt">点我下载</a></td></tr>
 </tbody>
 </table>
-11、bfloat16模块下载列表:
+12、bfloat16模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -239,7 +253,7 @@
 <tr><td>bfloat16-1.1-cp38-cp38-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYlZxq">点我下载</a></td></tr>
 </tbody>
 </table>
-12、bigfloat模块下载列表:
+13、bigfloat模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -251,7 +265,7 @@
 <tr><td>bigfloat-0.3.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYlZxw">点我下载</a></td></tr>
 </tbody>
 </table>
-13、bitarray模块下载列表:
+14、bitarray模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -276,7 +290,7 @@
 <tr><td>bitarray-1.2.0-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYlpxt">点我下载</a></td></tr>
 </tbody>
 </table>
-14、Box2D模块下载列表:
+15、Box2D模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -304,14 +318,14 @@
 <tr><td>Box2D-2.3.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYmp1q">点我下载</a></td></tr>
 </tbody>
 </table>
-15、box2d_py模块下载列表:
+16、box2d_py模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>box2d_py-2.3.5-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zpubmppr">点我下载</a></td></tr>
 </tbody>
 </table>
-16、Cartopy模块下载列表:
+17、Cartopy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -372,14 +386,14 @@
 <tr><td>Cartopy-0.17.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyXm55r">点我下载</a></td></tr>
 </tbody>
 </table>
-17、causal_conv1d模块下载列表:
+18、causal_conv1d模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>causal_conv1d-1.1.1-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zpubmpps">点我下载</a></td></tr>
 </tbody>
 </table>
-18、cftime模块下载列表:
+19、cftime模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -421,7 +435,7 @@
 <tr><td>cftime-1.6.2-cp39-cp39-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyTk55w">点我下载</a></td></tr>
 </tbody>
 </table>
-19、cogent模块下载列表:
+20、cogent模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -429,7 +443,7 @@
 <tr><td>cogent-1.9-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYm5Zx">点我下载</a></td></tr>
 </tbody>
 </table>
-20、cupy模块下载列表:
+21、cupy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -466,7 +480,7 @@
 <tr><td>cupy-6.5.0+cuda101-cp35-cp35m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYlp5s">点我下载</a></td></tr>
 </tbody>
 </table>
-21、curses模块下载列表:
+22、curses模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -488,7 +502,7 @@
 <tr><td>curses-2.2.1+utf8-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyXlp1w">点我下载</a></td></tr>
 </tbody>
 </table>
-22、cvxopt模块下载列表:
+23、cvxopt模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -509,7 +523,7 @@
 <tr><td>cvxopt-1.1.9-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYl5dv">点我下载</a></td></tr>
 </tbody>
 </table>
-23、cvxpy模块下载列表:
+24、cvxpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -530,7 +544,25 @@
 <tr><td>cvxpy-1.0.25-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYl5lq">点我下载</a></td></tr>
 </tbody>
 </table>
-24、cython_bbox模块下载列表:
+25、cx_Logging模块下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>cx_Logging-3.0-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5pw">点我下载</a></td></tr>
+<tr><td>cx_Logging-3.0-cp311-cp311-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5pv">点我下载</a></td></tr>
+<tr><td>cx_Logging-3.0-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5pu">点我下载</a></td></tr>
+<tr><td>cx_Logging-3.0-cp310-cp310-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5pt">点我下载</a></td></tr>
+<tr><td>cx_Logging-3.0-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5ts">点我下载</a></td></tr>
+<tr><td>cx_Logging-3.0-cp39-cp39-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5tr">点我下载</a></td></tr>
+<tr><td>cx_Logging-3.0-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5tq">点我下载</a></td></tr>
+<tr><td>cx_Logging-3.0-cp38-cp38-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5tp">点我下载</a></td></tr>
+<tr><td>cx_Logging-3.0-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5py">点我下载</a></td></tr>
+<tr><td>cx_Logging-3.0-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5px">点我下载</a></td></tr>
+<tr><td>cx_Logging-2.2-cp36-cp36m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5ps">点我下载</a></td></tr>
+<tr><td>cx_Logging-2.2-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Xm5pr">点我下载</a></td></tr>
+</tbody>
+</table>
+26、cython_bbox模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -539,7 +571,7 @@
 <tr><td>cython_bbox-0.1.5-cp38-cp38-linux_x86_64.whl</td><td><a href="https://mbd.pub/o/bread/Zpubmppt">点我下载</a></td></tr>
 </tbody>
 </table>
-25、datrie模块下载列表:
+27、datrie模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -559,7 +591,7 @@
 <tr><td>datrie-0.8.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYl5pv">点我下载</a></td></tr>
 </tbody>
 </table>
-26、DAWG模块下载列表:
+28、DAWG模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -579,7 +611,7 @@
 <tr><td>DAWG-0.7.8-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYl5xq">点我下载</a></td></tr>
 </tbody>
 </table>
-27、debugpy模块下载列表:
+29、debugpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -594,7 +626,7 @@
 <tr><td>debugpy-1.6.0-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYl51v">点我下载</a></td></tr>
 </tbody>
 </table>
-28、dipy模块下载列表:
+30、dipy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -615,11 +647,12 @@
 <tr><td>dipy-0.14.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYl55u">点我下载</a></td></tr>
 </tbody>
 </table>
-29、dlib模块下载列表:
+31、dlib模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>dlib-19.24.6-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUk5hx">点我下载</a></td></tr>
+<tr><td>dlib-19.24.2-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl51q">点我下载</a></td></tr>
 <tr><td>dlib-19.24.1-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUk5ls">点我下载</a></td></tr>
 <tr><td>dlib-19.22.99-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUk5lr">点我下载</a></td></tr>
 <tr><td>dlib-19.22.99-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUk5lq">点我下载</a></td></tr>
@@ -627,7 +660,7 @@
 <tr><td>dlib-19.22.99-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUk5hy">点我下载</a></td></tr>
 </tbody>
 </table>
-30、dubins模块下载列表:
+32、dubins模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -641,7 +674,7 @@
 <tr><td>dubins-1.0.1-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYmJZp">点我下载</a></td></tr>
 </tbody>
 </table>
-31、dukpy模块下载列表:
+33、dukpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -657,14 +690,14 @@
 <tr><td>dukpy-0.2.3-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYmJZx">点我下载</a></td></tr>
 </tbody>
 </table>
-32、dxchange模块下载列表:
+34、dxchange模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>dxchange-0.1.5-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYm5Zy">点我下载</a></td></tr>
 </tbody>
 </table>
-33、ecos模块下载列表:
+35、ecos模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -685,7 +718,7 @@
 <tr><td>ecos-2.0.7.post1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYmJdw">点我下载</a></td></tr>
 </tbody>
 </table>
-34、egenix_mx_base模块下载列表:
+36、egenix_mx_base模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -693,7 +726,7 @@
 <tr><td>egenix_mx_base-3.2.9-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYm5dq">点我下载</a></td></tr>
 </tbody>
 </table>
-35、ephem模块下载列表:
+37、ephem模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -719,7 +752,81 @@
 <tr><td>ephem-3.7.7.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYm5ds">点我下载</a></td></tr>
 </tbody>
 </table>
-36、fastparquet模块下载列表:
+38、ezdxf模块下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>ezdxf-1.3.4b0-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylplt">点我下载</a></td></tr>
+<tr><td>ezdxf-1.3.4b0-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylplr">点我下载</a></td></tr>
+<tr><td>ezdxf-1.3.4b0-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylplq">点我下载</a></td></tr>
+<tr><td>ezdxf-1.3.4b0-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylplp">点我下载</a></td></tr>
+<tr><td>ezdxf-1.3.4b0-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpls">点我下载</a></td></tr>
+<tr><td>ezdxf-1.3.4-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylphy">点我下载</a></td></tr>
+<tr><td>ezdxf-1.3.4-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylphx">点我下载</a></td></tr>
+<tr><td>ezdxf-1.3.4-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylphw">点我下载</a></td></tr>
+<tr><td>ezdxf-1.3.4-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylphv">点我下载</a></td></tr>
+<tr><td>ezdxf-0.16.3b0-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylphu">点我下载</a></td></tr>
+<tr><td>ezdxf-0.16.3b0-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpht">点我下载</a></td></tr>
+<tr><td>ezdxf-0.16.3b0-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylphs">点我下载</a></td></tr>
+<tr><td>ezdxf-0.16.3-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylphr">点我下载</a></td></tr>
+<tr><td>ezdxf-0.16.3-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylphq">点我下载</a></td></tr>
+<tr><td>ezdxf-0.16.3-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylphp">点我下载</a></td></tr>
+<tr><td>ezdxf-0.15b1-cp36-cp36m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpdy">点我下载</a></td></tr>
+<tr><td>ezdxf-0.14b4-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpdx">点我下载</a></td></tr>
+</tbody>
+</table>
+39、faiss_cpu模块下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>faiss_cpu-1.9.0-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp5q">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.9.0-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp5p">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.9.0-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp1y">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.9.0-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp5r">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.8.0.post1-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp1v">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.8.0.post1-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp1t">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.8.0.post1-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp1s">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.8.0.post1-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp1x">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.8.0.post1-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp1w">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.8.0-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp1p">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.8.0-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpxy">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.8.0-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpxx">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.8.0-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp1r">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.8.0-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylp1q">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.4-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpxt">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.4-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpxs">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.4-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpxw">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.4-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpxv">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.4-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpxu">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.3-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpty">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.3-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylptx">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.3-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpxr">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.3-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpxq">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.3-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpxp">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.2-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylptt">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.2-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylptw">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.2-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylptv">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.2-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylptu">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post3-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylppy">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post3-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpts">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post3-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylptr">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post3-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylptq">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post3-cp36-cp36m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylptp">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post2-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylppx">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post2-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylppw">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post2-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylppv">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post2-cp36-cp36m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylppu">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post1-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylppt">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post1-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylpps">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post1-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylppr">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1.post1-cp36-cp36m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylppq">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylppp">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylply">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylplx">点我下载</a></td></tr>
+<tr><td>faiss_cpu-1.7.1-cp36-cp36m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ylplw">点我下载</a></td></tr>
+</tbody>
+</table>
+40、fastparquet模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -742,7 +849,7 @@
 <tr><td>fastparquet-0.3.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYmJlt">点我下载</a></td></tr>
 </tbody>
 </table>
-37、fasttext模块下载列表:
+41、fasttext模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -765,7 +872,7 @@
 <tr><td>fasttext-0.8.22-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYk5xv">点我下载</a></td></tr>
 </tbody>
 </table>
-38、fcm模块下载列表:
+42、fcm模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -773,7 +880,7 @@
 <tr><td>fcm-0.9.6-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYm5ly">点我下载</a></td></tr>
 </tbody>
 </table>
-39、Fiona模块下载列表:
+43、Fiona模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -832,7 +939,7 @@
 <tr><td>Fiona-1.8.13-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyXmJxv">点我下载</a></td></tr>
 </tbody>
 </table>
-40、fiona模块下载列表:
+44、fiona模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -866,7 +973,7 @@
 <tr><td>fiona-1.9.5-cp39-cp39-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyTlJ1r">点我下载</a></td></tr>
 </tbody>
 </table>
-41、flask模块下载列表:
+45、flask模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -877,7 +984,7 @@
 <tr><td>flask-2.3.3-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zpubmptv">点我下载</a></td></tr>
 </tbody>
 </table>
-42、Flask模块下载列表:
+46、Flask模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -890,7 +997,7 @@
 <tr><td>Flask-2.2.2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zpubmppx">点我下载</a></td></tr>
 </tbody>
 </table>
-43、fonttools模块下载列表:
+47、fonttools模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -909,7 +1016,7 @@
 <tr><td>fonttools-3.44.0-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYmJtt">点我下载</a></td></tr>
 </tbody>
 </table>
-44、freeimagedll模块下载列表:
+48、freeimagedll模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -923,7 +1030,7 @@
 <tr><td>freeimagedll-3.17.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYmJtv">点我下载</a></td></tr>
 </tbody>
 </table>
-45、GDAL模块下载列表:
+49、GDAL模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1077,7 +1184,7 @@
 <tr><td>GDAL-2.2.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyXmJ1p">点我下载</a></td></tr>
 </tbody>
 </table>
-46、gensim模块下载列表:
+50、gensim模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1105,7 +1212,7 @@
 <tr><td>gensim-3.8.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYmJ5q">点我下载</a></td></tr>
 </tbody>
 </table>
-47、gevent模块下载列表:
+51、gevent模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1126,7 +1233,7 @@
 <tr><td>gevent-1.4.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYm5hw">点我下载</a></td></tr>
 </tbody>
 </table>
-48、glcontext模块下载列表:
+52、glcontext模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1143,7 +1250,7 @@
 <tr><td>glcontext-2.2.0-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYm5tu">点我下载</a></td></tr>
 </tbody>
 </table>
-49、glumpy模块下载列表:
+53、glumpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1166,7 +1273,7 @@
 <tr><td>glumpy-1.1.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYm5xw">点我下载</a></td></tr>
 </tbody>
 </table>
-50、gmpy模块下载列表:
+54、gmpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1174,7 +1281,7 @@
 <tr><td>gmpy-1.17-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYm55v">点我下载</a></td></tr>
 </tbody>
 </table>
-51、gmpy2模块下载列表:
+55、gmpy2模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1200,7 +1307,7 @@
 <tr><td>gmpy2-2.0.8-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYm55x">点我下载</a></td></tr>
 </tbody>
 </table>
-52、google_crc32c模块下载列表:
+56、google_crc32c模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1218,7 +1325,7 @@
 <tr><td>google_crc32c-1.1.0-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZkpdr">点我下载</a></td></tr>
 </tbody>
 </table>
-53、GPy模块下载列表:
+57、GPy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1238,7 +1345,7 @@
 <tr><td>GPy-1.9.9-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZkplq">点我下载</a></td></tr>
 </tbody>
 </table>
-54、greenlet模块下载列表:
+58、greenlet模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1259,7 +1366,7 @@
 <tr><td>greenlet-0.4.15-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZkppy">点我下载</a></td></tr>
 </tbody>
 </table>
-55、grpcio模块下载列表:
+59、grpcio模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1278,7 +1385,7 @@
 <tr><td>grpcio-1.26.0-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZkpxy">点我下载</a></td></tr>
 </tbody>
 </table>
-56、guidata模块下载列表:
+60、guidata模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1287,7 +1394,7 @@
 <tr><td>guidata-1.6.2-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZkp5q">点我下载</a></td></tr>
 </tbody>
 </table>
-57、guiqwt模块下载列表:
+61、guiqwt模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1320,7 +1427,7 @@
 <tr><td>guiqwt-2.3.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZkp5s">点我下载</a></td></tr>
 </tbody>
 </table>
-58、h5py模块下载列表:
+62、h5py模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1332,7 +1439,7 @@
 <tr><td>h5py-2.9.0-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyVmZls">点我下载</a></td></tr>
 </tbody>
 </table>
-59、hcluster模块下载列表:
+63、hcluster模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1340,7 +1447,7 @@
 <tr><td>hcluster-0.2.0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZk5dw">点我下载</a></td></tr>
 </tbody>
 </table>
-60、hdbscan模块下载列表:
+64、hdbscan模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1363,7 +1470,7 @@
 <tr><td>hdbscan-0.8.24-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZk5hq">点我下载</a></td></tr>
 </tbody>
 </table>
-61、HDDM模块下载列表:
+65、HDDM模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1386,7 +1493,7 @@
 <tr><td>HDDM-0.7.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalJdv">点我下载</a></td></tr>
 </tbody>
 </table>
-62、hmmlearn模块下载列表:
+66、hmmlearn模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1407,7 +1514,7 @@
 <tr><td>hmmlearn-0.2.3-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZk5ly">点我下载</a></td></tr>
 </tbody>
 </table>
-63、imagecodecs模块下载列表:
+67、imagecodecs模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1429,7 +1536,7 @@
 <tr><td>imagecodecs-2019.12.31-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZlJtu">点我下载</a></td></tr>
 </tbody>
 </table>
-64、imgui模块下载列表:
+68、imgui模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1443,7 +1550,7 @@
 <tr><td>imgui-1.4.1-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZlJ9x">点我下载</a></td></tr>
 </tbody>
 </table>
-65、iminuit模块下载列表:
+69、iminuit模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1466,7 +1573,7 @@
 <tr><td>iminuit-1.3.8-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZlZhs">点我下载</a></td></tr>
 </tbody>
 </table>
-66、imread模块下载列表:
+70、imread模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1489,7 +1596,7 @@
 <tr><td>imread-0.7.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZlZpu">点我下载</a></td></tr>
 </tbody>
 </table>
-67、indexed_gzip模块下载列表:
+71、indexed_gzip模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1512,7 +1619,7 @@
 <tr><td>indexed_gzip-0.8.10-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZlZ1p">点我下载</a></td></tr>
 </tbody>
 </table>
-68、javabridge模块下载列表:
+72、javabridge模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1530,7 +1637,7 @@
 <tr><td>javabridge-1.0.18-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZlpht">点我下载</a></td></tr>
 </tbody>
 </table>
-69、jieba_fast模块下载列表:
+73、jieba_fast模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1542,14 +1649,14 @@
 <tr><td>jieba_fast-0.53-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zpubmphw">点我下载</a></td></tr>
 </tbody>
 </table>
-70、kabuki模块下载列表:
+74、kabuki模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>kabuki-0.6.5-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zpubmpxr">点我下载</a></td></tr>
 </tbody>
 </table>
-71、Kivy模块下载列表:
+75、Kivy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1592,7 +1699,7 @@
 <tr><td>Kivy-1.10.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZlplv">点我下载</a></td></tr>
 </tbody>
 </table>
-72、kiwisolver模块下载列表:
+76、kiwisolver模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1615,7 +1722,7 @@
 <tr><td>kiwisolver-1.1.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZlp5q">点我下载</a></td></tr>
 </tbody>
 </table>
-73、lap模块下载列表:
+77、lap模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1623,7 +1730,7 @@
 <tr><td>lap-0.4.0-cp38-cp38-linux_x86_64.whl</td><td><a href="https://mbd.pub/o/bread/Zpubmpxs">点我下载</a></td></tr>
 </tbody>
 </table>
-74、libLAS模块下载列表:
+78、libLAS模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1644,7 +1751,7 @@
 <tr><td>libLAS-1.8.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZl5Zp">点我下载</a></td></tr>
 </tbody>
 </table>
-75、libsvm模块下载列表:
+79、libsvm模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1664,7 +1771,7 @@
 <tr><td>libsvm-3.23-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZl5hp">点我下载</a></td></tr>
 </tbody>
 </table>
-76、libtiff模块下载列表:
+80、libtiff模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1674,7 +1781,7 @@
 <tr><td>libtiff-0.4.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZl5ls">点我下载</a></td></tr>
 </tbody>
 </table>
-77、lief模块下载列表:
+81、lief模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1693,7 +1800,7 @@
 <tr><td>lief-0.11.5-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZl5pp">点我下载</a></td></tr>
 </tbody>
 </table>
-78、lightgbm模块下载列表:
+82、lightgbm模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1706,7 +1813,7 @@
 <tr><td>lightgbm-2.3.2-cp35-cp35m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZl5tt">点我下载</a></td></tr>
 </tbody>
 </table>
-79、llvmlite模块下载列表:
+83、llvmlite模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1726,7 +1833,7 @@
 <tr><td>llvmlite-0.31.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZl5xs">点我下载</a></td></tr>
 </tbody>
 </table>
-80、lmdb模块下载列表:
+84、lmdb模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1746,7 +1853,7 @@
 <tr><td>lmdb-0.98-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZl51u">点我下载</a></td></tr>
 </tbody>
 </table>
-81、louvain模块下载列表:
+85、louvain模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1771,7 +1878,7 @@
 <tr><td>louvain-0.6.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZl59w">点我下载</a></td></tr>
 </tbody>
 </table>
-82、lpsolve55模块下载列表:
+86、lpsolve55模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1790,7 +1897,7 @@
 <tr><td>lpsolve55-5.5.2.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZmJht">点我下载</a></td></tr>
 </tbody>
 </table>
-83、lru_dict模块下载列表:
+87、lru_dict模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1816,7 +1923,7 @@
 <tr><td>lru_dict-1.1.6-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZmJps">点我下载</a></td></tr>
 </tbody>
 </table>
-84、lsqfit模块下载列表:
+88、lsqfit模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1837,14 +1944,14 @@
 <tr><td>lsqfit-11.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZmJ1t">点我下载</a></td></tr>
 </tbody>
 </table>
-85、lucam模块下载列表:
+89、lucam模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>lucam-2021.6.6-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZmJ9t">点我下载</a></td></tr>
 </tbody>
 </table>
-86、lvgl模块下载列表:
+90、lvgl模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1862,7 +1969,7 @@
 <tr><td>lvgl-0.1-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZmZZp">点我下载</a></td></tr>
 </tbody>
 </table>
-87、lxml模块下载列表:
+91、lxml模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1905,7 +2012,7 @@
 <tr><td>lxml-4.4.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZmZls">点我下载</a></td></tr>
 </tbody>
 </table>
-88、lz4模块下载列表:
+92、lz4模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1937,7 +2044,7 @@
 <tr><td>lz4-2.2.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZmp5y">点我下载</a></td></tr>
 </tbody>
 </table>
-89、mahotas模块下载列表:
+93、mahotas模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1960,7 +2067,7 @@
 <tr><td>mahotas-1.4.9-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZm5pw">点我下载</a></td></tr>
 </tbody>
 </table>
-90、marisa_trie模块下载列表:
+94、marisa_trie模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -1980,7 +2087,7 @@
 <tr><td>marisa_trie-0.7.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyZm51y">点我下载</a></td></tr>
 </tbody>
 </table>
-91、MarkupSafe模块下载列表:
+95、MarkupSafe模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2009,7 +2116,7 @@
 <tr><td>MarkupSafe-1.1.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyakpZp">点我下载</a></td></tr>
 </tbody>
 </table>
-92、mathutils模块下载列表:
+96、mathutils模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2019,7 +2126,7 @@
 <tr><td>mathutils-2.78-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyakpts">点我下载</a></td></tr>
 </tbody>
 </table>
-93、matplotlib模块下载列表:
+97、matplotlib模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2069,7 +2176,7 @@
 <tr><td>matplotlib-2.2.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyakptw">点我下载</a></td></tr>
 </tbody>
 </table>
-94、maturin模块下载列表:
+98、maturin模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2086,7 +2193,7 @@
 <tr><td>maturin-0.12.12-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalJhw">点我下载</a></td></tr>
 </tbody>
 </table>
-95、mayavi模块下载列表:
+99、mayavi模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2122,7 +2229,7 @@
 <tr><td>mayavi-4.3.1+vtk510-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalJlx">点我下载</a></td></tr>
 </tbody>
 </table>
-96、mediapipe模块下载列表:
+100、mediapipe模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2227,7 +2334,7 @@
 <tr><td>mediapipe-0.7.10-cp36-cp36m-macosx_10_15_intel.whl</td><td><a href="https://mbd.pub/o/bread/Zpucm51u">点我下载</a></td></tr>
 </tbody>
 </table>
-97、medussa模块下载列表:
+101、medussa模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2243,7 +2350,7 @@
 <tr><td>medussa-2.0.1-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalJxy">点我下载</a></td></tr>
 </tbody>
 </table>
-98、menpo模块下载列表:
+102、menpo模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2260,7 +2367,7 @@
 <tr><td>menpo-0.9.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalJ5p">点我下载</a></td></tr>
 </tbody>
 </table>
-99、mercurial模块下载列表:
+103、mercurial模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2279,7 +2386,7 @@
 <tr><td>mercurial-5.2.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalJ9p">点我下载</a></td></tr>
 </tbody>
 </table>
-100、MeshPy模块下载列表:
+104、MeshPy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2293,7 +2400,7 @@
 <tr><td>MeshPy-2018.1.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalZZs">点我下载</a></td></tr>
 </tbody>
 </table>
-101、milk模块下载列表:
+105、milk模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2311,14 +2418,14 @@
 <tr><td>milk-0.6.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalZdq">点我下载</a></td></tr>
 </tbody>
 </table>
-102、milksets模块下载列表:
+106、milksets模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>milksets-0.2-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalZht">点我下载</a></td></tr>
 </tbody>
 </table>
-103、minepy模块下载列表:
+107、minepy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2342,7 +2449,7 @@
 <tr><td>minepy-1.2.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalZhu">点我下载</a></td></tr>
 </tbody>
 </table>
-104、mistune模块下载列表:
+108、mistune模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2364,7 +2471,7 @@
 <tr><td>mistune-0.8.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalZlv">点我下载</a></td></tr>
 </tbody>
 </table>
-105、mkl_fft模块下载列表:
+109、mkl_fft模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2387,7 +2494,7 @@
 <tr><td>mkl_fft-1.3.1-cp39-cp39-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUlZ5u">点我下载</a></td></tr>
 </tbody>
 </table>
-106、mkl_random模块下载列表:
+110、mkl_random模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2409,7 +2516,7 @@
 <tr><td>mkl_random-1.2.2-cp39-cp39-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUlpZv">点我下载</a></td></tr>
 </tbody>
 </table>
-107、mkl_service模块下载列表:
+111、mkl_service模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2423,7 +2530,7 @@
 <tr><td>mkl_service-2.4.0-cp39-cp39-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUlphs">点我下载</a></td></tr>
 </tbody>
 </table>
-108、mlpy模块下载列表:
+112、mlpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2441,7 +2548,7 @@
 <tr><td>mlpy-3.5.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalZtr">点我下载</a></td></tr>
 </tbody>
 </table>
-109、MMTK模块下载列表:
+113、MMTK模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2449,7 +2556,7 @@
 <tr><td>MMTK-2.7.9-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalZ1s">点我下载</a></td></tr>
 </tbody>
 </table>
-110、mod_wsgi模块下载列表:
+114、mod_wsgi模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2467,7 +2574,7 @@
 <tr><td>mod_wsgi-4.7.1-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalZ1x">点我下载</a></td></tr>
 </tbody>
 </table>
-111、moderngl模块下载列表:
+115、moderngl模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2486,14 +2593,14 @@
 <tr><td>moderngl-5.5.4-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalZ9r">点我下载</a></td></tr>
 </tbody>
 </table>
-112、molmass模块下载列表:
+116、molmass模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>molmass-2021.6.18-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalpZw">点我下载</a></td></tr>
 </tbody>
 </table>
-113、mpi4py模块下载列表:
+117、mpi4py模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2514,7 +2621,7 @@
 <tr><td>mpi4py-3.0.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyalpZx">点我下载</a></td></tr>
 </tbody>
 </table>
-114、mplcairo模块下载列表:
+118、mplcairo模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2535,7 +2642,7 @@
 <tr><td>mplcairo-0.2-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyalphu">点我下载</a></td></tr>
 </tbody>
 </table>
-115、msgpack模块下载列表:
+119、msgpack模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2558,7 +2665,7 @@
 <tr><td>msgpack-0.6.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyalppr">点我下载</a></td></tr>
 </tbody>
 </table>
-116、msvc_runtime模块下载列表:
+120、msvc_runtime模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2577,7 +2684,7 @@
 <tr><td>msvc_runtime-14.28.29910-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyalpty">点我下载</a></td></tr>
 </tbody>
 </table>
-117、multidict模块下载列表:
+121、multidict模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2600,7 +2707,7 @@
 <tr><td>multidict-3.3.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyalp1r">点我下载</a></td></tr>
 </tbody>
 </table>
-118、MultiNEAT模块下载列表:
+122、MultiNEAT模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2608,7 +2715,7 @@
 <tr><td>MultiNEAT-0.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyalp5y">点我下载</a></td></tr>
 </tbody>
 </table>
-119、multineat模块下载列表:
+123、multineat模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2620,7 +2727,7 @@
 <tr><td>multineat-0.5-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyalp9q">点我下载</a></td></tr>
 </tbody>
 </table>
-120、multiprocess模块下载列表:
+124、multiprocess模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2643,7 +2750,7 @@
 <tr><td>multiprocess-0.70.9-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyal5dp">点我下载</a></td></tr>
 </tbody>
 </table>
-121、murmurhash模块下载列表:
+125、murmurhash模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2666,7 +2773,7 @@
 <tr><td>murmurhash-1.0.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyal5dt">点我下载</a></td></tr>
 </tbody>
 </table>
-122、mxnet模块下载列表:
+126、mxnet模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2677,7 +2784,7 @@
 <tr><td>mxnet-1.7.0+mkl-cp36-cp36m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zpyal5lr">点我下载</a></td></tr>
 </tbody>
 </table>
-123、MySQL_python模块下载列表:
+127、MySQL_python模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2685,7 +2792,7 @@
 <tr><td>MySQL_python-1.2.5-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyal5lw">点我下载</a></td></tr>
 </tbody>
 </table>
-124、mysqlclient模块下载列表:
+128、mysqlclient模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2703,7 +2810,7 @@
 <tr><td>mysqlclient-1.4.6-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyal5pq">点我下载</a></td></tr>
 </tbody>
 </table>
-125、natgrid模块下载列表:
+129、natgrid模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2721,7 +2828,7 @@
 <tr><td>natgrid-0.2.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyal5ts">点我下载</a></td></tr>
 </tbody>
 </table>
-126、naturalneighbor模块下载列表:
+130、naturalneighbor模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2739,7 +2846,7 @@
 <tr><td>naturalneighbor-0.2.1-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyal51p">点我下载</a></td></tr>
 </tbody>
 </table>
-127、ndimage模块下载列表:
+131、ndimage模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2757,7 +2864,7 @@
 <tr><td>ndimage-1.3.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyal55p">点我下载</a></td></tr>
 </tbody>
 </table>
-128、ndindex模块下载列表:
+132、ndindex模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2772,7 +2879,7 @@
 <tr><td>ndindex-1.6-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyal59t">点我下载</a></td></tr>
 </tbody>
 </table>
-129、netCDF4模块下载列表:
+133、netCDF4模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2860,7 +2967,7 @@
 <tr><td>netCDF4-1.1.7+numpy16-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYkpZv">点我下载</a></td></tr>
 </tbody>
 </table>
-130、netifaces模块下载列表:
+134、netifaces模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2878,14 +2985,14 @@
 <tr><td>netifaces-0.10.9-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamJZq">点我下载</a></td></tr>
 </tbody>
 </table>
-131、netpbmfile模块下载列表:
+135、netpbmfile模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>netpbmfile-2022.2.2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamJds">点我下载</a></td></tr>
 </tbody>
 </table>
-132、nipy模块下载列表:
+136、nipy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2897,7 +3004,7 @@
 <tr><td>nipy-0.4.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamJdt">点我下载</a></td></tr>
 </tbody>
 </table>
-133、nitime模块下载列表:
+137、nitime模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2915,7 +3022,7 @@
 <tr><td>nitime-0.8.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamJhq">点我下载</a></td></tr>
 </tbody>
 </table>
-134、NLopt模块下载列表:
+138、NLopt模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2929,7 +3036,7 @@
 <tr><td>NLopt-2.5.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamJlt">点我下载</a></td></tr>
 </tbody>
 </table>
-135、nlopt模块下载列表:
+139、nlopt模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2943,7 +3050,7 @@
 <tr><td>nlopt-2.7.1-cp38-cp38-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamJpv">点我下载</a></td></tr>
 </tbody>
 </table>
-136、nMOLDYN模块下载列表:
+140、nMOLDYN模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2951,7 +3058,7 @@
 <tr><td>nMOLDYN-3.0.10-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamJtp">点我下载</a></td></tr>
 </tbody>
 </table>
-137、noise模块下载列表:
+141、noise模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2974,7 +3081,7 @@
 <tr><td>noise-1.2.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamJtv">点我下载</a></td></tr>
 </tbody>
 </table>
-138、numba模块下载列表:
+142、numba模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -2994,7 +3101,7 @@
 <tr><td>numba-0.47.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamJ1t">点我下载</a></td></tr>
 </tbody>
 </table>
-139、numcodecs模块下载列表:
+143、numcodecs模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3017,7 +3124,7 @@
 <tr><td>numcodecs-0.6.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamJ9w">点我下载</a></td></tr>
 </tbody>
 </table>
-140、numexpr模块下载列表:
+144、numexpr模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3050,7 +3157,7 @@
 <tr><td>numexpr-2.8.4-cp39-cp39-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUlpls">点我下载</a></td></tr>
 </tbody>
 </table>
-141、numpy模块下载列表:
+145、numpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3172,7 +3279,7 @@
 <tr><td>numpy-1.16.6+mkl-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYk5tw">点我下载</a></td></tr>
 </tbody>
 </table>
-142、numpy_quaternion模块下载列表:
+146、numpy_quaternion模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3195,7 +3302,7 @@
 <tr><td>numpy_quaternion-2019.12.12-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamZZw">点我下载</a></td></tr>
 </tbody>
 </table>
-143、numpy_stl模块下载列表:
+147、numpy_stl模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3218,7 +3325,7 @@
 <tr><td>numpy_stl-2.10.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamZhu">点我下载</a></td></tr>
 </tbody>
 </table>
-144、obspy模块下载列表:
+148、obspy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3238,7 +3345,7 @@
 <tr><td>obspy-1.1.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamZpu">点我下载</a></td></tr>
 </tbody>
 </table>
-145、ode模块下载列表:
+149、ode模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3258,14 +3365,14 @@
 <tr><td>ode-0.15.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamZxs">点我下载</a></td></tr>
 </tbody>
 </table>
-146、oiffile模块下载列表:
+150、oiffile模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>oiffile-2022.2.2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamZ1y">点我下载</a></td></tr>
 </tbody>
 </table>
-147、onnx模块下载列表:
+151、onnx模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3276,7 +3383,7 @@
 <tr><td>onnx-1.15.0-cp37-cp37m-linux_armv7l.whl</td><td><a href="https://mbd.pub/o/bread/Zpucm59s">点我下载</a></td></tr>
 </tbody>
 </table>
-148、onnxruntime_gpu模块下载列表:
+152、onnxruntime_gpu模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3295,7 +3402,7 @@
 <tr><td>onnxruntime_gpu-1.4.0-cp36-cp36m-linux_aarch64.whl</td><td><a href="https://mbd.pub/o/bread/Zpucm59v">点我下载</a></td></tr>
 </tbody>
 </table>
-149、open3d模块下载列表:
+153、open3d模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3306,7 +3413,7 @@
 <tr><td>open3d-0.9.0.0-cp35-cp35m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamZ5u">点我下载</a></td></tr>
 </tbody>
 </table>
-150、openbabel模块下载列表:
+154、openbabel模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3332,7 +3439,7 @@
 <tr><td>openbabel-2.4.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyamZ5x">点我下载</a></td></tr>
 </tbody>
 </table>
-151、opencv_python模块下载列表:
+155、opencv_python模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3346,7 +3453,7 @@
 <tr><td>opencv_python-4.7.0.68-cp37-abi3-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUlJdu">点我下载</a></td></tr>
 </tbody>
 </table>
-152、OpenEXR模块下载列表:
+156、OpenEXR模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3380,7 +3487,7 @@
 <tr><td>OpenEXR-1.2.0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyampds">点我下载</a></td></tr>
 </tbody>
 </table>
-153、OpenImageIO模块下载列表:
+157、OpenImageIO模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3414,7 +3521,7 @@
 <tr><td>OpenImageIO-1.6.18-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyampxs">点我下载</a></td></tr>
 </tbody>
 </table>
-154、OpenPIV模块下载列表:
+158、OpenPIV模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3441,7 +3548,7 @@
 <tr><td>OpenPIV-0.21.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyam5Zr">点我下载</a></td></tr>
 </tbody>
 </table>
-155、openTSNE模块下载列表:
+159、openTSNE模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3458,7 +3565,7 @@
 <tr><td>openTSNE-0.5.0-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyam5hu">点我下载</a></td></tr>
 </tbody>
 </table>
-156、Orange模块下载列表:
+160、Orange模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3466,7 +3573,7 @@
 <tr><td>Orange-2.7.8-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyam5pr">点我下载</a></td></tr>
 </tbody>
 </table>
-157、Orange3模块下载列表:
+161、Orange3模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3485,7 +3592,7 @@
 <tr><td>Orange3-3.24.0-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyam5ty">点我下载</a></td></tr>
 </tbody>
 </table>
-158、Orange3_Timeseries模块下载列表:
+162、Orange3_Timeseries模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3493,7 +3600,7 @@
 <tr><td>Orange3_Timeseries-0.4.0-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zpyam51r">点我下载</a></td></tr>
 </tbody>
 </table>
-159、orjson模块下载列表:
+163、orjson模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3509,7 +3616,7 @@
 <tr><td>orjson-3.6.7-cp37-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyam51t">点我下载</a></td></tr>
 </tbody>
 </table>
-160、osqp模块下载列表:
+164、osqp模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3526,7 +3633,7 @@
 <tr><td>osqp-0.6.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyam55u">点我下载</a></td></tr>
 </tbody>
 </table>
-161、oursql模块下载列表:
+165、oursql模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3534,7 +3641,7 @@
 <tr><td>oursql-0.9.3.1-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyam59v">点我下载</a></td></tr>
 </tbody>
 </table>
-162、pandas模块下载列表:
+166、pandas模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3564,7 +3671,7 @@
 <tr><td>pandas-0.24.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyam59y">点我下载</a></td></tr>
 </tbody>
 </table>
-163、param模块下载列表:
+167、param模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3579,14 +3686,14 @@
 <tr><td>param-1.5.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybkphv">点我下载</a></td></tr>
 </tbody>
 </table>
-164、PartSeg模块下载列表:
+168、PartSeg模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>PartSeg-0.14.0-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zpybkplu">点我下载</a></td></tr>
 </tbody>
 </table>
-165、PartSegCore_compiled_backend模块下载列表:
+169、PartSegCore_compiled_backend模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3603,14 +3710,14 @@
 <tr><td>PartSegCore_compiled_backend-0.12.0a0-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybkplv">点我下载</a></td></tr>
 </tbody>
 </table>
-166、PartSegData模块下载列表:
+170、PartSegData模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>PartSegData-0.10.0-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zpybkppw">点我下载</a></td></tr>
 </tbody>
 </table>
-167、peewee模块下载列表:
+171、peewee模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3631,7 +3738,7 @@
 <tr><td>peewee-3.13.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybkppx">点我下载</a></td></tr>
 </tbody>
 </table>
-168、pendulum模块下载列表:
+172、pendulum模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3651,7 +3758,7 @@
 <tr><td>pendulum-2.0.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybkpxs">点我下载</a></td></tr>
 </tbody>
 </table>
-169、persistent模块下载列表:
+173、persistent模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3672,7 +3779,7 @@
 <tr><td>persistent-4.5.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybkp1x">点我下载</a></td></tr>
 </tbody>
 </table>
-170、pgmagick模块下载列表:
+174、pgmagick模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3690,7 +3797,7 @@
 <tr><td>pgmagick-0.7.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybkp9s">点我下载</a></td></tr>
 </tbody>
 </table>
-171、Pillow模块下载列表:
+175、Pillow模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3732,7 +3839,7 @@
 <tr><td>Pillow-3.4.2-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybk5Zw">点我下载</a></td></tr>
 </tbody>
 </table>
-172、pillow_avif_plugin模块下载列表:
+176、pillow_avif_plugin模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3747,7 +3854,7 @@
 <tr><td>pillow_avif_plugin-1.2.1-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybk5pu">点我下载</a></td></tr>
 </tbody>
 </table>
-173、Pillow_SIMD模块下载列表:
+177、Pillow_SIMD模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3778,7 +3885,7 @@
 <tr><td>Pillow_SIMD-6.0.0.post0+avx2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybk5tt">点我下载</a></td></tr>
 </tbody>
 </table>
-174、planar模块下载列表:
+178、planar模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3798,14 +3905,14 @@
 <tr><td>planar-0.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybk59p">点我下载</a></td></tr>
 </tbody>
 </table>
-175、Pmw模块下载列表:
+179、Pmw模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>Pmw-2.0.1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/ZpyWmJ1t">点我下载</a></td></tr>
 </tbody>
 </table>
-176、pocketsphinx模块下载列表:
+180、pocketsphinx模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3825,7 +3932,7 @@
 <tr><td>pocketsphinx-0.1.15-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblJZu">点我下载</a></td></tr>
 </tbody>
 </table>
-177、Polygon2模块下载列表:
+181、Polygon2模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3833,7 +3940,7 @@
 <tr><td>Polygon2-2.0.8-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblJhr">点我下载</a></td></tr>
 </tbody>
 </table>
-178、Polygon3模块下载列表:
+182、Polygon3模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3849,7 +3956,7 @@
 <tr><td>Polygon3-3.0.8-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblJht">点我下载</a></td></tr>
 </tbody>
 </table>
-179、polylearn模块下载列表:
+183、polylearn模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3869,7 +3976,7 @@
 <tr><td>polylearn-0.1.dev0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblJlt">点我下载</a></td></tr>
 </tbody>
 </table>
-180、Polymode模块下载列表:
+184、Polymode模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3877,7 +3984,7 @@
 <tr><td>Polymode-0.1.2-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblJtr">点我下载</a></td></tr>
 </tbody>
 </table>
-181、postgresadapter模块下载列表:
+185、postgresadapter模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3895,7 +4002,7 @@
 <tr><td>postgresadapter-2.0.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblJtx">点我下载</a></td></tr>
 </tbody>
 </table>
-182、preshed模块下载列表:
+186、preshed模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3918,7 +4025,7 @@
 <tr><td>preshed-3.0.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblJ1u">点我下载</a></td></tr>
 </tbody>
 </table>
-183、protobuf模块下载列表:
+187、protobuf模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3940,14 +4047,14 @@
 <tr><td>protobuf-3.5.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblZZv">点我下载</a></td></tr>
 </tbody>
 </table>
-184、psdtags模块下载列表:
+188、psdtags模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>psdtags-2022.2.11-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblZds">点我下载</a></td></tr>
 </tbody>
 </table>
-185、psf模块下载列表:
+189、psf模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3970,7 +4077,7 @@
 <tr><td>psf-2019.10.14-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblZdu">点我下载</a></td></tr>
 </tbody>
 </table>
-186、psutil模块下载列表:
+190、psutil模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -3993,7 +4100,7 @@
 <tr><td>psutil-5.6.7-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblZpt">点我下载</a></td></tr>
 </tbody>
 </table>
-187、psychtoolbox模块下载列表:
+191、psychtoolbox模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4005,7 +4112,7 @@
 <tr><td>psychtoolbox-3.0.17.6-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblZxu">点我下载</a></td></tr>
 </tbody>
 </table>
-188、psycopg2模块下载列表:
+192、psycopg2模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4027,7 +4134,7 @@
 <tr><td>psycopg2-2.8.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblZ1s">点我下载</a></td></tr>
 </tbody>
 </table>
-189、psygnal模块下载列表:
+193、psygnal模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4042,7 +4149,7 @@
 <tr><td>psygnal-0.3.3-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblZ9r">点我下载</a></td></tr>
 </tbody>
 </table>
-190、PuLP模块下载列表:
+194、PuLP模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4064,7 +4171,7 @@
 <tr><td>PuLP-1.6.9-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyblpZu">点我下载</a></td></tr>
 </tbody>
 </table>
-191、py2exe模块下载列表:
+195、py2exe模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4072,7 +4179,7 @@
 <tr><td>py2exe-0.6.10a1-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyblphy">点我下载</a></td></tr>
 </tbody>
 </table>
-192、py_gd模块下载列表:
+196、py_gd模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4082,7 +4189,7 @@
 <tr><td>py_gd-0.1.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyblphu">点我下载</a></td></tr>
 </tbody>
 </table>
-193、PyAlembic模块下载列表:
+197、PyAlembic模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4098,7 +4205,7 @@
 <tr><td>PyAlembic-1.5.7-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyblplr">点我下载</a></td></tr>
 </tbody>
 </table>
-194、PyAMF模块下载列表:
+198、PyAMF模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4106,7 +4213,7 @@
 <tr><td>PyAMF-0.8.0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyblppr">点我下载</a></td></tr>
 </tbody>
 </table>
-195、pyamg模块下载列表:
+199、pyamg模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4133,14 +4240,14 @@
 <tr><td>pyamg-3.3.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyblppt">点我下载</a></td></tr>
 </tbody>
 </table>
-196、pyarrow模块下载列表:
+200、pyarrow模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>pyarrow-0.4.1-cp36-cp36m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zpyblp1s">点我下载</a></td></tr>
 </tbody>
 </table>
-197、pyasn模块下载列表:
+201、pyasn模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4162,7 +4269,7 @@
 <tr><td>pyasn-1.6.0b1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyblp1t">点我下载</a></td></tr>
 </tbody>
 </table>
-198、PyAudio模块下载列表:
+202、PyAudio模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4193,7 +4300,7 @@
 <tr><td>PyAudio-0.2.11-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybl5lv">点我下载</a></td></tr>
 </tbody>
 </table>
-199、PyBluez模块下载列表:
+203、PyBluez模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4203,7 +4310,7 @@
 <tr><td>PyBluez-0.22-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybl55x">点我下载</a></td></tr>
 </tbody>
 </table>
-200、pycairo模块下载列表:
+204、pycairo模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4226,7 +4333,7 @@
 <tr><td>pycairo-1.18.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybl59s">点我下载</a></td></tr>
 </tbody>
 </table>
-201、pycairo_gtk模块下载列表:
+205、pycairo_gtk模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4234,7 +4341,7 @@
 <tr><td>pycairo_gtk-1.10.0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybm5dq">点我下载</a></td></tr>
 </tbody>
 </table>
-202、pycares模块下载列表:
+206、pycares模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4272,7 +4379,7 @@
 <tr><td>pycares-2.4.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybm5ds">点我下载</a></td></tr>
 </tbody>
 </table>
-203、PyCifRW模块下载列表:
+207、PyCifRW模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4297,7 +4404,7 @@
 <tr><td>PyCifRW-3.6.2-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybm5xx">点我下载</a></td></tr>
 </tbody>
 </table>
-204、pycld2模块下载列表:
+208、pycld2模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4317,14 +4424,14 @@
 <tr><td>pycld2-0.41-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpybm59v">点我下载</a></td></tr>
 </tbody>
 </table>
-205、pyclearvolume模块下载列表:
+209、pyclearvolume模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>pyclearvolume-0.1-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zpyckpdx">点我下载</a></td></tr>
 </tbody>
 </table>
-206、Pycluster模块下载列表:
+210、Pycluster模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4344,7 +4451,7 @@
 <tr><td>Pycluster-1.56-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyckpdy">点我下载</a></td></tr>
 </tbody>
 </table>
-207、pycorrfit模块下载列表:
+211、pycorrfit模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4362,7 +4469,7 @@
 <tr><td>pycorrfit-1.0.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyckppv">点我下载</a></td></tr>
 </tbody>
 </table>
-208、pycosat模块下载列表:
+212、pycosat模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4385,7 +4492,7 @@
 <tr><td>pycosat-0.6.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyckpxy">点我下载</a></td></tr>
 </tbody>
 </table>
-209、pycryptosat模块下载列表:
+213、pycryptosat模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4405,7 +4512,7 @@
 <tr><td>pycryptosat-0.6.1-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyckp9r">点我下载</a></td></tr>
 </tbody>
 </table>
-210、pycuda模块下载列表:
+214、pycuda模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4465,7 +4572,7 @@
 <tr><td>pycuda-2017.1.1+cuda8061-cp36-cp36m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zpyck5pp">点我下载</a></td></tr>
 </tbody>
 </table>
-211、pycudadecon模块下载列表:
+215、pycudadecon模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4473,7 +4580,7 @@
 <tr><td>pycudadecon-0.2.0+cuda102-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zpyck59x">点我下载</a></td></tr>
 </tbody>
 </table>
-212、pycurl模块下载列表:
+216、pycurl模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4496,7 +4603,7 @@
 <tr><td>pycurl-7.43.0.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclJZp">点我下载</a></td></tr>
 </tbody>
 </table>
-213、pycvodes模块下载列表:
+217、pycvodes模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4514,7 +4621,7 @@
 <tr><td>pycvodes-0.11.15-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclJdw">点我下载</a></td></tr>
 </tbody>
 </table>
-214、pydantic模块下载列表:
+218、pydantic模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4533,7 +4640,7 @@
 <tr><td>pydantic-1.7.3-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclJlq">点我下载</a></td></tr>
 </tbody>
 </table>
-215、pydbg模块下载列表:
+219、pydbg模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4541,7 +4648,7 @@
 <tr><td>pydbg-1.2-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclJpv">点我下载</a></td></tr>
 </tbody>
 </table>
-216、PyDDE模块下载列表:
+220、PyDDE模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4561,7 +4668,7 @@
 <tr><td>PyDDE-0.2.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclJpx">点我下载</a></td></tr>
 </tbody>
 </table>
-217、pydensecrf模块下载列表:
+221、pydensecrf模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4581,7 +4688,7 @@
 <tr><td>pydensecrf-1.0rc2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclJ1p">点我下载</a></td></tr>
 </tbody>
 </table>
-218、pyeda模块下载列表:
+222、pyeda模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4596,7 +4703,7 @@
 <tr><td>pyeda-0.28.0-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclJ9w">点我下载</a></td></tr>
 </tbody>
 </table>
-219、pyemd模块下载列表:
+223、pyemd模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4616,7 +4723,7 @@
 <tr><td>pyemd-0.5.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclZZv">点我下载</a></td></tr>
 </tbody>
 </table>
-220、pyerfa模块下载列表:
+224、pyerfa模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4632,7 +4739,7 @@
 <tr><td>pyerfa-1.7.1.1-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclZlv">点我下载</a></td></tr>
 </tbody>
 </table>
-221、pyexiv2模块下载列表:
+225、pyexiv2模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4640,7 +4747,7 @@
 <tr><td>pyexiv2-0.3.2-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclZ1p">点我下载</a></td></tr>
 </tbody>
 </table>
-222、pyFFTW模块下载列表:
+226、pyFFTW模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4652,7 +4759,7 @@
 <tr><td>pyFFTW-0.10.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclZ1r">点我下载</a></td></tr>
 </tbody>
 </table>
-223、pyfits模块下载列表:
+227、pyfits模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4664,7 +4771,7 @@
 <tr><td>pyfits-3.5-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclZ1y">点我下载</a></td></tr>
 </tbody>
 </table>
-224、pyFltk模块下载列表:
+228、pyFltk模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4686,7 +4793,7 @@
 <tr><td>pyFltk-1.3.4.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyclZ9s">点我下载</a></td></tr>
 </tbody>
 </table>
-225、pyflux模块下载列表:
+229、pyflux模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4704,7 +4811,7 @@
 <tr><td>pyflux-0.4.17-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyclphq">点我下载</a></td></tr>
 </tbody>
 </table>
-226、pyfm模块下载列表:
+230、pyfm模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4722,7 +4829,7 @@
 <tr><td>pyfm-2016.2.10-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyclppx">点我下载</a></td></tr>
 </tbody>
 </table>
-227、PyFMI模块下载列表:
+231、PyFMI模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4745,7 +4852,7 @@
 <tr><td>PyFMI-1.5-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyclpxs">点我下载</a></td></tr>
 </tbody>
 </table>
-228、pygame模块下载列表:
+232、pygame模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4785,7 +4892,7 @@
 <tr><td>pygame-1.9.6-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpyclp5q">点我下载</a></td></tr>
 </tbody>
 </table>
-229、pygeos模块下载列表:
+233、pygeos模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4817,7 +4924,7 @@
 <tr><td>pygeos-0.12.0-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycl5hw">点我下载</a></td></tr>
 </tbody>
 </table>
-230、pygit2模块下载列表:
+234、pygit2模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4838,7 +4945,7 @@
 <tr><td>pygit2-0.28.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycl5pq">点我下载</a></td></tr>
 </tbody>
 </table>
-231、pygobject模块下载列表:
+235、pygobject模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4846,7 +4953,7 @@
 <tr><td>pygobject-2.28.6-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycl5xw">点我下载</a></td></tr>
 </tbody>
 </table>
-232、pygraphviz模块下载列表:
+236、pygraphviz模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4878,7 +4985,7 @@
 <tr><td>pygraphviz-1.3.1-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYk55t">点我下载</a></td></tr>
 </tbody>
 </table>
-233、PyGreSQL模块下载列表:
+237、PyGreSQL模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4901,7 +5008,7 @@
 <tr><td>PyGreSQL-5.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycl59p">点我下载</a></td></tr>
 </tbody>
 </table>
-234、pygtk模块下载列表:
+238、pygtk模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4909,7 +5016,7 @@
 <tr><td>pygtk-2.22.0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpycmJdu">点我下载</a></td></tr>
 </tbody>
 </table>
-235、pyhdf模块下载列表:
+239、pyhdf模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4932,7 +5039,7 @@
 <tr><td>pyhdf-0.10.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpycmJdx">点我下载</a></td></tr>
 </tbody>
 </table>
-236、pyHook模块下载列表:
+240、pyHook模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4946,7 +5053,7 @@
 <tr><td>pyHook-1.5.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpycmJlw">点我下载</a></td></tr>
 </tbody>
 </table>
-237、pyhull模块下载列表:
+241、pyhull模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -4966,7 +5073,7 @@
 <tr><td>pyhull-2015.2.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpycmJtq">点我下载</a></td></tr>
 </tbody>
 </table>
-238、PyICU模块下载列表:
+242、PyICU模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5035,7 +5142,7 @@
 <tr><td>PyICU-2.3.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpycmJ1p">点我下载</a></td></tr>
 </tbody>
 </table>
-239、pyjnius模块下载列表:
+243、pyjnius模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5058,7 +5165,7 @@
 <tr><td>pyjnius-1.2.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpycmZhv">点我下载</a></td></tr>
 </tbody>
 </table>
-240、pykinsol模块下载列表:
+244、pykinsol模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5076,7 +5183,7 @@
 <tr><td>pykinsol-0.1.4-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpycmpZt">点我下载</a></td></tr>
 </tbody>
 </table>
-241、pyksvd模块下载列表:
+245、pyksvd模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5084,7 +5191,7 @@
 <tr><td>pyksvd-0.1-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycm5dw">点我下载</a></td></tr>
 </tbody>
 </table>
-242、pyldap模块下载列表:
+246、pyldap模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5098,7 +5205,7 @@
 <tr><td>pyldap-2.4.45-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycm5dy">点我下载</a></td></tr>
 </tbody>
 </table>
-243、pylibczi模块下载列表:
+247、pylibczi模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5112,7 +5219,7 @@
 <tr><td>pylibczi-2.1.0-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycm5ls">点我下载</a></td></tr>
 </tbody>
 </table>
-244、pylibCZIrw模块下载列表:
+248、pylibCZIrw模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5127,7 +5234,7 @@
 <tr><td>pylibCZIrw-3.0.1-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycm5tq">点我下载</a></td></tr>
 </tbody>
 </table>
-245、pylibdeconv模块下载列表:
+249、pylibdeconv模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5135,14 +5242,14 @@
 <tr><td>pylibdeconv-1.0.0.dev0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycm51p">点我下载</a></td></tr>
 </tbody>
 </table>
-246、pylibjpeg模块下载列表:
+250、pylibjpeg模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>pylibjpeg-1.4.0-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zpycm51r">点我下载</a></td></tr>
 </tbody>
 </table>
-247、pylibjpeg_libjpeg模块下载列表:
+251、pylibjpeg_libjpeg模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5159,7 +5266,7 @@
 <tr><td>pylibjpeg_libjpeg-1.1.0-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycm51s">点我下载</a></td></tr>
 </tbody>
 </table>
-248、pylibjpeg_openjpeg模块下载列表:
+252、pylibjpeg_openjpeg模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5176,7 +5283,7 @@
 <tr><td>pylibjpeg_openjpeg-1.0.1-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycm55t">点我下载</a></td></tr>
 </tbody>
 </table>
-249、pylibjpeg_rle模块下载列表:
+253、pylibjpeg_rle模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5191,7 +5298,7 @@
 <tr><td>pylibjpeg_rle-1.3.0-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zpycm59x">点我下载</a></td></tr>
 </tbody>
 </table>
-250、pylibtiff模块下载列表:
+254、pylibtiff模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5208,7 +5315,7 @@
 <tr><td>pylibtiff-0.4.2-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TkpZu">点我下载</a></td></tr>
 </tbody>
 </table>
-251、pyltp模块下载列表:
+255、pyltp模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5221,7 +5328,7 @@
 <tr><td>pyltp-0.2.1-cp35-cp35m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyWmJxq">点我下载</a></td></tr>
 </tbody>
 </table>
-252、pylzma模块下载列表:
+256、pylzma模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5241,7 +5348,7 @@
 <tr><td>pylzma-0.5.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tkpdv">点我下载</a></td></tr>
 </tbody>
 </table>
-253、pymatgen模块下载列表:
+257、pymatgen模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5264,7 +5371,7 @@
 <tr><td>pymatgen-2018.12.12-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tkpls">点我下载</a></td></tr>
 </tbody>
 </table>
-254、PyMaxflow模块下载列表:
+258、PyMaxflow模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5282,7 +5389,7 @@
 <tr><td>PyMaxflow-1.2.12-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tkptt">点我下载</a></td></tr>
 </tbody>
 </table>
-255、pymc模块下载列表:
+259、pymc模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5310,7 +5417,7 @@
 <tr><td>pymc-2.3.7-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tkpxv">点我下载</a></td></tr>
 </tbody>
 </table>
-256、PyMca模块下载列表:
+260、PyMca模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5318,7 +5425,7 @@
 <tr><td>PyMca-4.7.4-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tkp5r">点我下载</a></td></tr>
 </tbody>
 </table>
-257、PyMca5模块下载列表:
+261、PyMca5模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5330,7 +5437,7 @@
 <tr><td>PyMca5-5.1.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tkp5t">点我下载</a></td></tr>
 </tbody>
 </table>
-258、pymcmc模块下载列表:
+262、pymcmc模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5338,7 +5445,7 @@
 <tr><td>pymcmc-1.1a1-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tkp9p">点我下载</a></td></tr>
 </tbody>
 </table>
-259、PyMCubes模块下载列表:
+263、PyMCubes模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5358,7 +5465,7 @@
 <tr><td>PyMCubes-0.0.9-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tkp9t">点我下载</a></td></tr>
 </tbody>
 </table>
-260、pymedia模块下载列表:
+264、pymedia模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5366,7 +5473,7 @@
 <tr><td>pymedia-1.3.7.3-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tk5Zv">点我下载</a></td></tr>
 </tbody>
 </table>
-261、PyMetis模块下载列表:
+265、PyMetis模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5384,7 +5491,7 @@
 <tr><td>PyMetis-2019.1.1-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tk5Zy">点我下载</a></td></tr>
 </tbody>
 </table>
-262、pyMinuit模块下载列表:
+266、pyMinuit模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5404,7 +5511,7 @@
 <tr><td>pyMinuit-1.2.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tk5hs">点我下载</a></td></tr>
 </tbody>
 </table>
-263、pymix模块下载列表:
+267、pymix模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5412,7 +5519,7 @@
 <tr><td>pymix-0.8b0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tk5lx">点我下载</a></td></tr>
 </tbody>
 </table>
-264、pymmlib模块下载列表:
+268、pymmlib模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5420,7 +5527,7 @@
 <tr><td>pymmlib-1.2.1-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tk5pp">点我下载</a></td></tr>
 </tbody>
 </table>
-265、pymol模块下载列表:
+269、pymol模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5474,7 +5581,7 @@
 <tr><td>pymol-2.1.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyXm5Zx">点我下载</a></td></tr>
 </tbody>
 </table>
-266、pymol_launcher模块下载列表:
+270、pymol_launcher模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5501,7 +5608,7 @@
 <tr><td>pymol_launcher-2.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyXmp5s">点我下载</a></td></tr>
 </tbody>
 </table>
-267、pymongo模块下载列表:
+271、pymongo模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5531,7 +5638,7 @@
 <tr><td>pymongo-3.10.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tk5pr">点我下载</a></td></tr>
 </tbody>
 </table>
-268、pymor模块下载列表:
+272、pymor模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5546,7 +5653,7 @@
 <tr><td>pymor-2020.2.2-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tk51r">点我下载</a></td></tr>
 </tbody>
 </table>
-269、pymssql模块下载列表:
+273、pymssql模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5568,7 +5675,7 @@
 <tr><td>pymssql-1.0.3-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tk51y">点我下载</a></td></tr>
 </tbody>
 </table>
-270、pymunk模块下载列表:
+274、pymunk模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5576,7 +5683,39 @@
 <tr><td>pymunk-4.0.0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tk59x">点我下载</a></td></tr>
 </tbody>
 </table>
-271、pymutt模块下载列表:
+275、PyMuPDF模块下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>PyMuPDF-1.24.9-cp312-none-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZpt">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.24.9-cp311-none-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZps">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.24.9-cp310-none-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZpr">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.24.9-cp39-none-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZpv">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.24.9-cp38-none-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZpu">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.22.5-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZpq">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.22.5-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZpp">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.22.5-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZly">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.17-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZlp">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.17-cp310-cp310-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZhy">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.17-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZlx">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.17-cp39-cp39-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZlw">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.17-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZlv">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.17-cp38-cp38-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZlu">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.17-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZlt">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.17-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZls">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.17-cp36-cp36m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZlr">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.17-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZlq">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.15-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZhx">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.15-cp39-cp39-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZhw">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.15-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZhv">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.15-cp38-cp38-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZhu">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.15-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZht">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.15-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZhs">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.15-cp36-cp36m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZhr">点我下载</a></td></tr>
+<tr><td>PyMuPDF-1.18.15-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZhq">点我下载</a></td></tr>
+</tbody>
+</table>
+276、pymutt模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5584,7 +5723,7 @@
 <tr><td>pymutt-0.82.0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TlJZq">点我下载</a></td></tr>
 </tbody>
 </table>
-272、pymvpa模块下载列表:
+277、pymvpa模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5592,7 +5731,7 @@
 <tr><td>pymvpa-0.4.8-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TlJhq">点我下载</a></td></tr>
 </tbody>
 </table>
-273、pymvpa2模块下载列表:
+278、pymvpa2模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5612,7 +5751,33 @@
 <tr><td>pymvpa2-2.6.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TlJhy">点我下载</a></td></tr>
 </tbody>
 </table>
-274、pyodbc模块下载列表:
+279、pynut模块下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>pynut-1.11.2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5dq">点我下载</a></td></tr>
+<tr><td>pynut-1.9.3-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5hw">点我下载</a></td></tr>
+<tr><td>pynut-1.9.2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5hv">点我下载</a></td></tr>
+<tr><td>pynut-1.8.3-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5hu">点我下载</a></td></tr>
+<tr><td>pynut-1.7.6-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5ht">点我下载</a></td></tr>
+<tr><td>pynut-1.7.5-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5hs">点我下载</a></td></tr>
+<tr><td>pynut-1.7.4-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5hr">点我下载</a></td></tr>
+<tr><td>pynut-1.6.11-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5dw">点我下载</a></td></tr>
+<tr><td>pynut-1.6.9-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5hq">点我下载</a></td></tr>
+<tr><td>pynut-1.6.7-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5hp">点我下载</a></td></tr>
+<tr><td>pynut-1.6.6-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5dy">点我下载</a></td></tr>
+<tr><td>pynut-1.6.3-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5dx">点我下载</a></td></tr>
+<tr><td>pynut-1.5.1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5dv">点我下载</a></td></tr>
+<tr><td>pynut-1.3.6-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5du">点我下载</a></td></tr>
+<tr><td>pynut-1.3.5-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5dt">点我下载</a></td></tr>
+<tr><td>pynut-1.3.4-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5ds">点我下载</a></td></tr>
+<tr><td>pynut-1.2.1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5dr">点我下载</a></td></tr>
+<tr><td>pynut-1.1.6-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5dp">点我下载</a></td></tr>
+<tr><td>pynut-1.1.3-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5Zy">点我下载</a></td></tr>
+<tr><td>pynut-1.1.2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5Zx">点我下载</a></td></tr>
+</tbody>
+</table>
+280、pyodbc模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5632,7 +5797,7 @@
 <tr><td>pyodbc-4.0.28-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TlJxw">点我下载</a></td></tr>
 </tbody>
 </table>
-275、pyodeint模块下载列表:
+281、pyodeint模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5650,7 +5815,7 @@
 <tr><td>pyodeint-0.10.2-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TlZdy">点我下载</a></td></tr>
 </tbody>
 </table>
-276、pyopencl模块下载列表:
+282、pyopencl模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5685,7 +5850,7 @@
 <tr><td>pyopencl-2018.1.1+cl12-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TlZly">点我下载</a></td></tr>
 </tbody>
 </table>
-277、PyOpenGL模块下载列表:
+283、PyOpenGL模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5717,7 +5882,7 @@
 <tr><td>PyOpenGL-3.1.5-cp27-cp27m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpubmZhw">点我下载</a></td></tr>
 </tbody>
 </table>
-278、PyOpenGL_accelerate模块下载列表:
+284、PyOpenGL_accelerate模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5749,7 +5914,7 @@
 <tr><td>PyOpenGL_accelerate-3.1.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyXl5dt">点我下载</a></td></tr>
 </tbody>
 </table>
-279、pypmc模块下载列表:
+285、pypmc模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5773,7 +5938,7 @@
 <tr><td>pypmc-1.1.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tlpdx">点我下载</a></td></tr>
 </tbody>
 </table>
-280、pyproj模块下载列表:
+286、pyproj模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5883,7 +6048,7 @@
 <tr><td>pyproj-1.9.6-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyXmZhv">点我下载</a></td></tr>
 </tbody>
 </table>
-281、pyqpbo模块下载列表:
+287、pyqpbo模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5901,7 +6066,7 @@
 <tr><td>pyqpbo-0.1.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tlptw">点我下载</a></td></tr>
 </tbody>
 </table>
-282、PyQt4模块下载列表:
+288、PyQt4模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5919,14 +6084,14 @@
 <tr><td>PyQt4-4.11.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tlp5u">点我下载</a></td></tr>
 </tbody>
 </table>
-283、PyQt5_sip模块下载列表:
+289、PyQt5_sip模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>PyQt5_sip-12.13.0-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUlZZx">点我下载</a></td></tr>
 </tbody>
 </table>
-284、PyQwt模块下载列表:
+290、PyQwt模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5940,7 +6105,7 @@
 <tr><td>PyQwt-5.2.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tl5Zv">点我下载</a></td></tr>
 </tbody>
 </table>
-285、pyradiomics模块下载列表:
+291、pyradiomics模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5951,7 +6116,7 @@
 <tr><td>pyradiomics-3.0.1-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zpubmp5p">点我下载</a></td></tr>
 </tbody>
 </table>
-286、pyrsistent模块下载列表:
+292、pyrsistent模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -5973,7 +6138,7 @@
 <tr><td>pyrsistent-0.15.7-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tl5hu">点我下载</a></td></tr>
 </tbody>
 </table>
-287、pyRXP模块下载列表:
+293、pyRXP模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6002,7 +6167,7 @@
 <tr><td>pyRXP-2.2.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tl5tq">点我下载</a></td></tr>
 </tbody>
 </table>
-288、pysandbox模块下载列表:
+294、pysandbox模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6010,7 +6175,7 @@
 <tr><td>pysandbox-1.5.1-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TmJlw">点我下载</a></td></tr>
 </tbody>
 </table>
-289、pySFML模块下载列表:
+295、pySFML模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6018,7 +6183,7 @@
 <tr><td>pySFML-2.2.0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TmJly">点我下载</a></td></tr>
 </tbody>
 </table>
-290、PySide模块下载列表:
+296、PySide模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6031,7 +6196,7 @@
 <tr><td>PySide-1.2.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TmJpr">点我下载</a></td></tr>
 </tbody>
 </table>
-291、pySLALIB模块下载列表:
+297、pySLALIB模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6052,7 +6217,7 @@
 <tr><td>pySLALIB-1.0.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TmJtr">点我下载</a></td></tr>
 </tbody>
 </table>
-292、pysparse模块下载列表:
+298、pysparse模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6060,7 +6225,7 @@
 <tr><td>pysparse-1.3-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TmJ1q">点我下载</a></td></tr>
 </tbody>
 </table>
-293、pyspharm模块下载列表:
+299、pyspharm模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6081,7 +6246,7 @@
 <tr><td>pyspharm-1.0.9-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TmJ1t">点我下载</a></td></tr>
 </tbody>
 </table>
-294、pysqlite模块下载列表:
+300、pysqlite模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6089,7 +6254,7 @@
 <tr><td>pysqlite-2.8.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2TmZlq">点我下载</a></td></tr>
 </tbody>
 </table>
-295、pystackreg模块下载列表:
+301、pystackreg模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6112,7 +6277,7 @@
 <tr><td>pystackreg-0.2.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tm5dw">点我下载</a></td></tr>
 </tbody>
 </table>
-296、PyStemmer模块下载列表:
+302、PyStemmer模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6132,7 +6297,7 @@
 <tr><td>PyStemmer-1.3.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tm5lv">点我下载</a></td></tr>
 </tbody>
 </table>
-297、pystruct模块下载列表:
+303、pystruct模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6152,7 +6317,7 @@
 <tr><td>pystruct-0.3.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tm51v">点我下载</a></td></tr>
 </tbody>
 </table>
-298、pyswisseph模块下载列表:
+304、pyswisseph模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6176,7 +6341,7 @@
 <tr><td>pyswisseph-2.0.0.post2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Tm59q">点我下载</a></td></tr>
 </tbody>
 </table>
-299、python_cjson模块下载列表:
+305、python_cjson模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6184,7 +6349,7 @@
 <tr><td>python_cjson-1.2.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Uk5hx">点我下载</a></td></tr>
 </tbody>
 </table>
-300、python_geohash模块下载列表:
+306、python_geohash模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6211,7 +6376,7 @@
 <tr><td>python_geohash-0.8.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Uk5lp">点我下载</a></td></tr>
 </tbody>
 </table>
-301、python_igraph模块下载列表:
+307、python_igraph模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6228,7 +6393,7 @@
 <tr><td>python_igraph-0.7.1.post6-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Uk5pt">点我下载</a></td></tr>
 </tbody>
 </table>
-302、python_javabridge模块下载列表:
+308、python_javabridge模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6242,7 +6407,7 @@
 <tr><td>python_javabridge-4.0.3-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Uk5tw">点我下载</a></td></tr>
 </tbody>
 </table>
-303、python_ldap模块下载列表:
+309、python_ldap模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6295,7 +6460,7 @@
 <tr><td>python_ldap-2.5.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Uk5xy">点我下载</a></td></tr>
 </tbody>
 </table>
-304、python_Levenshtein模块下载列表:
+310、python_Levenshtein模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6315,7 +6480,7 @@
 <tr><td>python_Levenshtein-0.12.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Uk59t">点我下载</a></td></tr>
 </tbody>
 </table>
-305、python_lzf模块下载列表:
+311、python_lzf模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6338,7 +6503,7 @@
 <tr><td>python_lzf-0.2.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlJZx">点我下载</a></td></tr>
 </tbody>
 </table>
-306、python_lzo模块下载列表:
+312、python_lzo模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6361,7 +6526,7 @@
 <tr><td>python_lzo-1.12-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlJ1x">点我下载</a></td></tr>
 </tbody>
 </table>
-307、python_rapidjson模块下载列表:
+313、python_rapidjson模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6380,7 +6545,7 @@
 <tr><td>python_rapidjson-0.9.1-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlJ9u">点我下载</a></td></tr>
 </tbody>
 </table>
-308、python_snappy模块下载列表:
+314、python_snappy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6403,7 +6568,7 @@
 <tr><td>python_snappy-0.5.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlZZx">点我下载</a></td></tr>
 </tbody>
 </table>
-309、python_sundials模块下载列表:
+315、python_sundials模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6413,7 +6578,7 @@
 <tr><td>python_sundials-0.5-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlZhu">点我下载</a></td></tr>
 </tbody>
 </table>
-310、PythonMagick模块下载列表:
+316、PythonMagick模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6433,7 +6598,7 @@
 <tr><td>PythonMagick-0.9.10-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlZhy">点我下载</a></td></tr>
 </tbody>
 </table>
-311、pythonnet模块下载列表:
+317、pythonnet模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6451,7 +6616,7 @@
 <tr><td>pythonnet-2.4.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlZpu">点我下载</a></td></tr>
 </tbody>
 </table>
-312、pytiff模块下载列表:
+318、pytiff模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6471,7 +6636,7 @@
 <tr><td>pytiff-0.8.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlZtw">点我下载</a></td></tr>
 </tbody>
 </table>
-313、pytinyexr模块下载列表:
+319、pytinyexr模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6487,7 +6652,7 @@
 <tr><td>pytinyexr-0.9.1-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlZ1t">点我下载</a></td></tr>
 </tbody>
 </table>
-314、pytomlpp模块下载列表:
+320、pytomlpp模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6504,7 +6669,7 @@
 <tr><td>pytomlpp-1.0.10-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlZ5r">点我下载</a></td></tr>
 </tbody>
 </table>
-315、pytoshop模块下载列表:
+321、pytoshop模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6519,7 +6684,7 @@
 <tr><td>pytoshop-1.2.1-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlZ9u">点我下载</a></td></tr>
 </tbody>
 </table>
-316、pytst模块下载列表:
+322、pytst模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6527,7 +6692,7 @@
 <tr><td>pytst-1.18-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UlpZt">点我下载</a></td></tr>
 </tbody>
 </table>
-317、PyTurboJPEG模块下载列表:
+323、PyTurboJPEG模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6544,7 +6709,7 @@
 <tr><td>PyTurboJPEG-1.6.6-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ulpdp">点我下载</a></td></tr>
 </tbody>
 </table>
-318、PyUSB模块下载列表:
+324、PyUSB模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6552,7 +6717,7 @@
 <tr><td>PyUSB-1.6-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ulpdw">点我下载</a></td></tr>
 </tbody>
 </table>
-319、pyviennacl模块下载列表:
+325、pyviennacl模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6564,14 +6729,14 @@
 <tr><td>pyviennacl-1.0.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ulphp">点我下载</a></td></tr>
 </tbody>
 </table>
-320、PyVRML97模块下载列表:
+326、PyVRML97模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>PyVRML97-2.3.1-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ulphv">点我下载</a></td></tr>
 </tbody>
 </table>
-321、PyVRML97_accelerate模块下载列表:
+327、PyVRML97_accelerate模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6587,7 +6752,7 @@
 <tr><td>PyVRML97_accelerate-2.3.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ulphw">点我下载</a></td></tr>
 </tbody>
 </table>
-322、PyWavelets模块下载列表:
+328、PyWavelets模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6610,7 +6775,7 @@
 <tr><td>PyWavelets-1.0.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ulplw">点我下载</a></td></tr>
 </tbody>
 </table>
-323、pywcs模块下载列表:
+329、pywcs模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6618,7 +6783,7 @@
 <tr><td>pywcs-1.12-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ulptt">点我下载</a></td></tr>
 </tbody>
 </table>
-324、pywin32模块下载列表:
+330、pywin32模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6640,7 +6805,7 @@
 <tr><td>pywin32-228-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ulptv">点我下载</a></td></tr>
 </tbody>
 </table>
-325、pyWinhook模块下载列表:
+331、pyWinhook模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6662,7 +6827,7 @@
 <tr><td>pyWinhook-1.6.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ulp1r">点我下载</a></td></tr>
 </tbody>
 </table>
-326、pywinpty模块下载列表:
+332、pywinpty模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6698,7 +6863,7 @@
 <tr><td>pywinpty-0.5.7-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ulp5y">点我下载</a></td></tr>
 </tbody>
 </table>
-327、PyX模块下载列表:
+333、PyX模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6716,7 +6881,7 @@
 <tr><td>PyX-0.15-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ul5hs">点我下载</a></td></tr>
 </tbody>
 </table>
-328、PyXML模块下载列表:
+334、PyXML模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6724,7 +6889,7 @@
 <tr><td>PyXML-0.8.4-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ul5lt">点我下载</a></td></tr>
 </tbody>
 </table>
-329、PyYAML模块下载列表:
+335、PyYAML模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6755,7 +6920,7 @@
 <tr><td>PyYAML-5.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ul5lv">点我下载</a></td></tr>
 </tbody>
 </table>
-330、pyzmq模块下载列表:
+336、pyzmq模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6786,7 +6951,7 @@
 <tr><td>pyzmq-18.1.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ul5xq">点我下载</a></td></tr>
 </tbody>
 </table>
-331、pyzstd模块下载列表:
+337、pyzstd模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6803,7 +6968,7 @@
 <tr><td>pyzstd-0.14.1-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ul55w">点我下载</a></td></tr>
 </tbody>
 </table>
-332、qdafile模块下载列表:
+338、qdafile模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6811,7 +6976,7 @@
 <tr><td>qdafile-2019.1.24-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ul59x">点我下载</a></td></tr>
 </tbody>
 </table>
-333、qdldl模块下载列表:
+339、qdldl模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6822,7 +6987,7 @@
 <tr><td>qdldl-0.1.5.post2-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmJZq">点我下载</a></td></tr>
 </tbody>
 </table>
-334、qimage2ndarray模块下载列表:
+340、qimage2ndarray模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6835,7 +7000,7 @@
 <tr><td>qimage2ndarray-1.3.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmJZu">点我下载</a></td></tr>
 </tbody>
 </table>
-335、qt_graph_helpers模块下载列表:
+341、qt_graph_helpers模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6849,7 +7014,7 @@
 <tr><td>qt_graph_helpers-0.1.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmJdt">点我下载</a></td></tr>
 </tbody>
 </table>
-336、QuantLib_Python模块下载列表:
+342、QuantLib_Python模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6863,7 +7028,7 @@
 <tr><td>QuantLib_Python-1.11-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmJlp">点我下载</a></td></tr>
 </tbody>
 </table>
-337、quickfix模块下载列表:
+343、quickfix模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6883,7 +7048,7 @@
 <tr><td>quickfix-1.14.3-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmJly">点我下载</a></td></tr>
 </tbody>
 </table>
-338、qutip模块下载列表:
+344、qutip模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6904,7 +7069,7 @@
 <tr><td>qutip-4.1.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmJtt">点我下载</a></td></tr>
 </tbody>
 </table>
-339、rasterio模块下载列表:
+345、rasterio模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -6999,7 +7164,7 @@
 <tr><td>rasterio-1.0.24+gdal24-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyXmpdv">点我下载</a></td></tr>
 </tbody>
 </table>
-340、re2模块下载列表:
+346、re2模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7007,7 +7172,7 @@
 <tr><td>re2-0.2.24-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmJxy">点我下载</a></td></tr>
 </tbody>
 </table>
-341、recordclass模块下载列表:
+347、recordclass模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7027,7 +7192,7 @@
 <tr><td>recordclass-0.12.0.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmJ1q">点我下载</a></td></tr>
 </tbody>
 </table>
-342、regex模块下载列表:
+348、regex模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7050,7 +7215,7 @@
 <tr><td>regex-2020.1.8-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmJ5u">点我下载</a></td></tr>
 </tbody>
 </table>
-343、reportlab模块下载列表:
+349、reportlab模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7073,14 +7238,14 @@
 <tr><td>reportlab-3.5.32-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmZhq">点我下载</a></td></tr>
 </tbody>
 </table>
-344、roifile模块下载列表:
+350、roifile模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>roifile-2022.3.18-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmZlx">点我下载</a></td></tr>
 </tbody>
 </table>
-345、Ropes模块下载列表:
+351、Ropes模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7088,7 +7253,16 @@
 <tr><td>Ropes-1.0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmZly">点我下载</a></td></tr>
 </tbody>
 </table>
-346、rpy2模块下载列表:
+352、RPi.GPIO2模块下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>RPi.GPIO2-0.3.0a3-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5ls">点我下载</a></td></tr>
+<tr><td>RPi.GPIO2-0.3.0a2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5lr">点我下载</a></td></tr>
+<tr><td>RPi.GPIO2-0.3.0a1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5lq">点我下载</a></td></tr>
+</tbody>
+</table>
+353、rpy2模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7102,7 +7276,7 @@
 <tr><td>rpy2-2.7.8-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmZpq">点我下载</a></td></tr>
 </tbody>
 </table>
-347、rtmidi_python模块下载列表:
+354、rtmidi_python模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7124,7 +7298,7 @@
 <tr><td>rtmidi_python-0.2.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmZpy">点我下载</a></td></tr>
 </tbody>
 </table>
-348、Rtree模块下载列表:
+355、Rtree模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7180,14 +7354,14 @@
 <tr><td>Rtree-1.0.1-cp38-cp38-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyTmZ9q">点我下载</a></td></tr>
 </tbody>
 </table>
-349、ruamel.yaml模块下载列表:
+356、ruamel.yaml模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>ruamel.yaml-0.17.21-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmZxu">点我下载</a></td></tr>
 </tbody>
 </table>
-350、ruamel.yaml.clib模块下载列表:
+357、ruamel.yaml.clib模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7210,7 +7384,7 @@
 <tr><td>ruamel.yaml.clib-0.2.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmZxv">点我下载</a></td></tr>
 </tbody>
 </table>
-351、salientdetect模块下载列表:
+358、salientdetect模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7228,7 +7402,7 @@
 <tr><td>salientdetect-0.0.2-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmZ5v">点我下载</a></td></tr>
 </tbody>
 </table>
-352、sasl模块下载列表:
+359、sasl模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7251,7 +7425,7 @@
 <tr><td>sasl-0.1.3-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2UmZ9w">点我下载</a></td></tr>
 </tbody>
 </table>
-353、scandir模块下载列表:
+360、scandir模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7272,7 +7446,7 @@
 <tr><td>scandir-1.10.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Umpdt">点我下载</a></td></tr>
 </tbody>
 </table>
-354、ScientificPython模块下载列表:
+361、ScientificPython模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7280,7 +7454,7 @@
 <tr><td>ScientificPython-2.9.4-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Umplv">点我下载</a></td></tr>
 </tbody>
 </table>
-355、scikit_cycling模块下载列表:
+362、scikit_cycling模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7298,7 +7472,7 @@
 <tr><td>scikit_cycling-0.1.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Umplx">点我下载</a></td></tr>
 </tbody>
 </table>
-356、scikit_fmm模块下载列表:
+363、scikit_fmm模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7312,7 +7486,7 @@
 <tr><td>scikit_fmm-2019.1.30-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Umptp">点我下载</a></td></tr>
 </tbody>
 </table>
-357、scikit_image模块下载列表:
+364、scikit_image模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7348,7 +7522,7 @@
 <tr><td>scikit_image-0.14.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Umpty">点我下载</a></td></tr>
 </tbody>
 </table>
-358、scikit_learn模块下载列表:
+365、scikit_learn模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7389,7 +7563,7 @@
 <tr><td>scikit_learn-0.20.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Ump9q">点我下载</a></td></tr>
 </tbody>
 </table>
-359、scikit_misc模块下载列表:
+366、scikit_misc模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7407,7 +7581,7 @@
 <tr><td>scikit_misc-0.1.1-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um5hx">点我下载</a></td></tr>
 </tbody>
 </table>
-360、scikit_umfpack模块下载列表:
+367、scikit_umfpack模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7419,7 +7593,7 @@
 <tr><td>scikit_umfpack-0.3.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um5pq">点我下载</a></td></tr>
 </tbody>
 </table>
-361、scikits.ann模块下载列表:
+368、scikits.ann模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7427,7 +7601,7 @@
 <tr><td>scikits.ann-0.2.1-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um5pw">点我下载</a></td></tr>
 </tbody>
 </table>
-362、scikits.audiolab模块下载列表:
+369、scikits.audiolab模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7435,7 +7609,7 @@
 <tr><td>scikits.audiolab-0.11.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um5tp">点我下载</a></td></tr>
 </tbody>
 </table>
-363、scikits.delaunay模块下载列表:
+370、scikits.delaunay模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7443,7 +7617,7 @@
 <tr><td>scikits.delaunay-0.5-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um5tr">点我下载</a></td></tr>
 </tbody>
 </table>
-364、scikits.hydroclimpy模块下载列表:
+371、scikits.hydroclimpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7451,7 +7625,7 @@
 <tr><td>scikits.hydroclimpy-0.67.1-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um5tt">点我下载</a></td></tr>
 </tbody>
 </table>
-365、scikits.odes模块下载列表:
+372、scikits.odes模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7472,7 +7646,7 @@
 <tr><td>scikits.odes-2.3.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um5tv">点我下载</a></td></tr>
 </tbody>
 </table>
-366、scikits.samplerate模块下载列表:
+373、scikits.samplerate模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7480,7 +7654,7 @@
 <tr><td>scikits.samplerate-0.3.3-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um51q">点我下载</a></td></tr>
 </tbody>
 </table>
-367、scikits.scattpy模块下载列表:
+374、scikits.scattpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7488,7 +7662,7 @@
 <tr><td>scikits.scattpy-0.1.2-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um51s">点我下载</a></td></tr>
 </tbody>
 </table>
-368、scikits.timeseries模块下载列表:
+375、scikits.timeseries模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7496,7 +7670,7 @@
 <tr><td>scikits.timeseries-0.91.3-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um51w">点我下载</a></td></tr>
 </tbody>
 </table>
-369、scikits.vectorplot模块下载列表:
+376、scikits.vectorplot模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7517,7 +7691,7 @@
 <tr><td>scikits.vectorplot-0.1.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um51y">点我下载</a></td></tr>
 </tbody>
 </table>
-370、scimath模块下载列表:
+377、scimath模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7539,7 +7713,7 @@
 <tr><td>scimath-4.2.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Um59u">点我下载</a></td></tr>
 </tbody>
 </table>
-371、SciPy模块下载列表:
+378、SciPy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7575,7 +7749,7 @@
 <tr><td>SciPy-1.9.3-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUmJht">点我下载</a></td></tr>
 </tbody>
 </table>
-372、scipy模块下载列表:
+379、scipy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7596,7 +7770,7 @@
 <tr><td>scipy-1.4.1-cp35-cp35m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUkpZq">点我下载</a></td></tr>
 </tbody>
 </table>
-373、scs模块下载列表:
+380、scs模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7630,14 +7804,14 @@
 <tr><td>scs-1.2.7-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vkpds">点我下载</a></td></tr>
 </tbody>
 </table>
-374、sdtfile模块下载列表:
+381、sdtfile模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>sdtfile-2022.2.2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vkppq">点我下载</a></td></tr>
 </tbody>
 </table>
-375、SendKeys模块下载列表:
+382、SendKeys模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7645,7 +7819,7 @@
 <tr><td>SendKeys-0.3-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vkppr">点我下载</a></td></tr>
 </tbody>
 </table>
-376、seqlearn模块下载列表:
+383、seqlearn模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7665,7 +7839,7 @@
 <tr><td>seqlearn-0.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vkppt">点我下载</a></td></tr>
 </tbody>
 </table>
-377、setproctitle模块下载列表:
+384、setproctitle模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7688,7 +7862,7 @@
 <tr><td>setproctitle-1.1.10-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vkpxp">点我下载</a></td></tr>
 </tbody>
 </table>
-378、sfepy模块下载列表:
+385、sfepy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7708,7 +7882,7 @@
 <tr><td>sfepy-2019.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vkp5s">点我下载</a></td></tr>
 </tbody>
 </table>
-379、Shapely模块下载列表:
+386、Shapely模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7748,7 +7922,7 @@
 <tr><td>Shapely-1.6.4.post2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/ZpyXmpZw">点我下载</a></td></tr>
 </tbody>
 </table>
-380、shapely模块下载列表:
+387、shapely模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7805,7 +7979,7 @@
 <tr><td>shapely-2.0.1-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyVmZtt">点我下载</a></td></tr>
 </tbody>
 </table>
-381、SilverCity模块下载列表:
+388、SilverCity模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7813,7 +7987,7 @@
 <tr><td>SilverCity-0.9.7-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vkptx">点我下载</a></td></tr>
 </tbody>
 </table>
-382、sima模块下载列表:
+389、sima模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7833,7 +8007,7 @@
 <tr><td>sima-1.3.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vkp9x">点我下载</a></td></tr>
 </tbody>
 </table>
-383、simpleaudio模块下载列表:
+390、simpleaudio模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7851,7 +8025,7 @@
 <tr><td>simpleaudio-1.0.4-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vk5dt">点我下载</a></td></tr>
 </tbody>
 </table>
-384、SimpleITK模块下载列表:
+391、SimpleITK模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7863,7 +8037,7 @@
 <tr><td>SimpleITK-1.0.0-cp27-cp27m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyYk59v">点我下载</a></td></tr>
 </tbody>
 </table>
-385、simplejson模块下载列表:
+392、simplejson模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7886,7 +8060,7 @@
 <tr><td>simplejson-3.17.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vk5hv">点我下载</a></td></tr>
 </tbody>
 </table>
-386、SimpleParse模块下载列表:
+393、SimpleParse模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7906,7 +8080,7 @@
 <tr><td>SimpleParse-2.2.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vk5tq">点我下载</a></td></tr>
 </tbody>
 </table>
-387、sklearn_contrib_lightning模块下载列表:
+394、sklearn_contrib_lightning模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7927,7 +8101,7 @@
 <tr><td>sklearn_contrib_lightning-0.5.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vk51r">点我下载</a></td></tr>
 </tbody>
 </table>
-388、sklearn_contrib_py_earth模块下载列表:
+395、sklearn_contrib_py_earth模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7947,7 +8121,7 @@
 <tr><td>sklearn_contrib_py_earth-0.1.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vk55w">点我下载</a></td></tr>
 </tbody>
 </table>
-389、slideio模块下载列表:
+396、slideio模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7956,7 +8130,7 @@
 <tr><td>slideio-0.5.0-cp37-cp37m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2VlJZq">点我下载</a></td></tr>
 </tbody>
 </table>
-390、slycot模块下载列表:
+397、slycot模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -7977,7 +8151,7 @@
 <tr><td>slycot-0.3.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2VlJZt">点我下载</a></td></tr>
 </tbody>
 </table>
-391、sounddevice模块下载列表:
+398、sounddevice模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8000,7 +8174,24 @@
 <tr><td>sounddevice-0.3.14-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2VlJdy">点我下载</a></td></tr>
 </tbody>
 </table>
-392、spacy模块下载列表:
+399、soupsieve模块下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>soupsieve-2.6-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5pu">点我下载</a></td></tr>
+<tr><td>soupsieve-2.5-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5pt">点我下载</a></td></tr>
+<tr><td>soupsieve-2.4.1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5ps">点我下载</a></td></tr>
+<tr><td>soupsieve-2.4-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5pr">点我下载</a></td></tr>
+<tr><td>soupsieve-2.3.2.post1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5pq">点我下载</a></td></tr>
+<tr><td>soupsieve-2.3.2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5pp">点我下载</a></td></tr>
+<tr><td>soupsieve-2.3.1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5ly">点我下载</a></td></tr>
+<tr><td>soupsieve-2.3-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5lx">点我下载</a></td></tr>
+<tr><td>soupsieve-2.2.1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5lw">点我下载</a></td></tr>
+<tr><td>soupsieve-2.2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5lv">点我下载</a></td></tr>
+<tr><td>soupsieve-2.1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5lu">点我下载</a></td></tr>
+</tbody>
+</table>
+400、spacy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8022,7 +8213,7 @@
 <tr><td>spacy-2.1.8-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2VlJlv">点我下载</a></td></tr>
 </tbody>
 </table>
-393、sparsesvd模块下载列表:
+401、sparsesvd模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8042,7 +8233,7 @@
 <tr><td>sparsesvd-0.2.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2VlJtu">点我下载</a></td></tr>
 </tbody>
 </table>
-394、spectrum模块下载列表:
+402、spectrum模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8062,7 +8253,7 @@
 <tr><td>spectrum-0.7.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2VlJ5x">点我下载</a></td></tr>
 </tbody>
 </table>
-395、spglib模块下载列表:
+403、spglib模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8083,7 +8274,7 @@
 <tr><td>spglib-1.14.1.post0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2VlZdt">点我下载</a></td></tr>
 </tbody>
 </table>
-396、SQLAlchemy模块下载列表:
+404、SQLAlchemy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8106,7 +8297,7 @@
 <tr><td>SQLAlchemy-1.3.13-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2VlZty">点我下载</a></td></tr>
 </tbody>
 </table>
-397、srsly模块下载列表:
+405、srsly模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8126,7 +8317,7 @@
 <tr><td>srsly-0.2.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2VlZ5u">点我下载</a></td></tr>
 </tbody>
 </table>
-398、statsmodels模块下载列表:
+406、statsmodels模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8149,7 +8340,7 @@
 <tr><td>statsmodels-0.10.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vlplp">点我下载</a></td></tr>
 </tbody>
 </table>
-399、STEPS模块下载列表:
+407、STEPS模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8157,7 +8348,7 @@
 <tr><td>STEPS-2.2.0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vlptx">点我下载</a></td></tr>
 </tbody>
 </table>
-400、stratify模块下载列表:
+408、stratify模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8177,7 +8368,7 @@
 <tr><td>stratify-0.1.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vlpxu">点我下载</a></td></tr>
 </tbody>
 </table>
-401、swiglpk模块下载列表:
+409、swiglpk模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8204,7 +8395,7 @@
 <tr><td>swiglpk-4.65.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vlp5s">点我下载</a></td></tr>
 </tbody>
 </table>
-402、TA_Lib模块下载列表:
+410、TA_Lib模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8269,7 +8460,7 @@
 <tr><td>TA_Lib-0.4.17-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vl5Zy">点我下载</a></td></tr>
 </tbody>
 </table>
-403、tables模块下载列表:
+411、tables模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8305,7 +8496,7 @@
 <tr><td>tables-3.5.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vl5lq">点我下载</a></td></tr>
 </tbody>
 </table>
-404、TatSu模块下载列表:
+412、TatSu模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8322,7 +8513,20 @@
 <tr><td>TatSu-4.4.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vl5xu">点我下载</a></td></tr>
 </tbody>
 </table>
-405、texture2ddecoder模块下载列表:
+413、tb_nightly模块下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>tb_nightly-2.14.0a20230808-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5ts">点我下载</a></td></tr>
+<tr><td>tb_nightly-2.8.0a20220116-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5tv">点我下载</a></td></tr>
+<tr><td>tb_nightly-2.7.0a20210810-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5tu">点我下载</a></td></tr>
+<tr><td>tb_nightly-2.4.0a20201027-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5tt">点我下载</a></td></tr>
+<tr><td>tb_nightly-2.1.0a20190927-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5tr">点我下载</a></td></tr>
+<tr><td>tb_nightly-1.15.0a20190730-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5tq">点我下载</a></td></tr>
+<tr><td>tb_nightly-1.14.0a20190501-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5tp">点我下载</a></td></tr>
+</tbody>
+</table>
+414、texture2ddecoder模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8337,7 +8541,7 @@
 <tr><td>texture2ddecoder-1.0.4-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vl51x">点我下载</a></td></tr>
 </tbody>
 </table>
-406、thinc模块下载列表:
+415、thinc模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8359,7 +8563,7 @@
 <tr><td>thinc-7.1.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vl55v">点我下载</a></td></tr>
 </tbody>
 </table>
-407、thinc_gpu_ops模块下载列表:
+416、thinc_gpu_ops模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8375,7 +8579,7 @@
 <tr><td>thinc_gpu_ops-0.0.4+cuda100-cp35-cp35m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/Zp2VmJhp">点我下载</a></td></tr>
 </tbody>
 </table>
-408、thrift模块下载列表:
+417、thrift模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8396,7 +8600,7 @@
 <tr><td>thrift-0.13.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2VmJlp">点我下载</a></td></tr>
 </tbody>
 </table>
-409、thriftpy模块下载列表:
+418、thriftpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8410,7 +8614,7 @@
 <tr><td>thriftpy-0.3.9-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vmp5u">点我下载</a></td></tr>
 </tbody>
 </table>
-410、tifffile模块下载列表:
+419、tifffile模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8422,7 +8626,7 @@
 <tr><td>tifffile-2024.7.24-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/ZpyUl5dw">点我下载</a></td></tr>
 </tbody>
 </table>
-411、tiledb模块下载列表:
+420、tiledb模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8438,7 +8642,7 @@
 <tr><td>tiledb-0.9.4-cp36-cp36m-macosx_10_13_x86_64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyVmZtw">点我下载</a></td></tr>
 </tbody>
 </table>
-412、tinyarray模块下载列表:
+421、tinyarray模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8460,7 +8664,7 @@
 <tr><td>tinyarray-1.0.5-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vmp9s">点我下载</a></td></tr>
 </tbody>
 </table>
-413、tinybrain模块下载列表:
+422、tinybrain模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8475,7 +8679,7 @@
 <tr><td>tinybrain-1.3.0-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vm5dq">点我下载</a></td></tr>
 </tbody>
 </table>
-414、tomopy模块下载列表:
+423、tomopy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8496,7 +8700,7 @@
 <tr><td>tomopy-1.1.2-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vm5dx">点我下载</a></td></tr>
 </tbody>
 </table>
-415、tornado模块下载列表:
+424、tornado模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8534,7 +8738,7 @@
 <tr><td>tornado-5.1.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vm5ls">点我下载</a></td></tr>
 </tbody>
 </table>
-416、traits模块下载列表:
+425、traits模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8557,7 +8761,7 @@
 <tr><td>traits-5.2.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vm5xv">点我下载</a></td></tr>
 </tbody>
 </table>
-417、transformations模块下载列表:
+426、transformations模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8580,7 +8784,7 @@
 <tr><td>transformations-2019.4.22-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vm55t">点我下载</a></td></tr>
 </tbody>
 </table>
-418、triangle模块下载列表:
+427、triangle模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8603,7 +8807,16 @@
 <tr><td>triangle-20190115.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WkpZq">点我下载</a></td></tr>
 </tbody>
 </table>
-419、trollius模块下载列表:
+428、triton_transformer模块下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>triton_transformer-0.1.1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5xt">点我下载</a></td></tr>
+<tr><td>triton_transformer-0.1.0-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5xs">点我下载</a></td></tr>
+<tr><td>triton_transformer-0.0.23-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Yl5xr">点我下载</a></td></tr>
+</tbody>
+</table>
+429、trollius模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8617,7 +8830,7 @@
 <tr><td>trollius-2.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wkpdx">点我下载</a></td></tr>
 </tbody>
 </table>
-420、TTFQuery模块下载列表:
+430、TTFQuery模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8625,7 +8838,7 @@
 <tr><td>TTFQuery-1.0.5-py2-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vl5hy">点我下载</a></td></tr>
 </tbody>
 </table>
-421、twain模块下载列表:
+431、twain模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8646,7 +8859,7 @@
 <tr><td>twain-1.0.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wkphv">点我下载</a></td></tr>
 </tbody>
 </table>
-422、Twisted模块下载列表:
+432、Twisted模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8667,7 +8880,7 @@
 <tr><td>Twisted-16.6.0-cp311-cp311-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wkppq">点我下载</a></td></tr>
 </tbody>
 </table>
-423、twisted_iocpsupport模块下载列表:
+433、twisted_iocpsupport模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8684,7 +8897,7 @@
 <tr><td>twisted_iocpsupport-1.0.2-cp37-cp37m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wkpxp">点我下载</a></td></tr>
 </tbody>
 </table>
-424、typed_ast模块下载列表:
+434、typed_ast模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8704,21 +8917,21 @@
 <tr><td>typed_ast-1.4.0-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wkpxy">点我下载</a></td></tr>
 </tbody>
 </table>
-425、typing_extensions模块下载列表:
+435、typing_extensions模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>typing_extensions-4.5.0-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zpucm59u">点我下载</a></td></tr>
 </tbody>
 </table>
-426、uciwebauth模块下载列表:
+436、uciwebauth模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>uciwebauth-2021.6.18-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wkp5s">点我下载</a></td></tr>
 </tbody>
 </table>
-427、udunits2模块下载列表:
+437、udunits2模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8741,7 +8954,7 @@
 <tr><td>udunits2-2.2.27.6-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wkp5t">点我下载</a></td></tr>
 </tbody>
 </table>
-428、ujson模块下载列表:
+438、ujson模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8770,7 +8983,7 @@
 <tr><td>ujson-1.35-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wk5Zq">点我下载</a></td></tr>
 </tbody>
 </table>
-429、umysql模块下载列表:
+439、umysql模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8778,7 +8991,7 @@
 <tr><td>umysql-2.61-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wk5ht">点我下载</a></td></tr>
 </tbody>
 </table>
-430、veusz模块下载列表:
+440、veusz模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8792,7 +9005,7 @@
 <tr><td>veusz-1.27-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wk5hv">点我下载</a></td></tr>
 </tbody>
 </table>
-431、VideoCapture模块下载列表:
+441、VideoCapture模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8815,7 +9028,7 @@
 <tr><td>VideoCapture-0.9.5-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wk5pp">点我下载</a></td></tr>
 </tbody>
 </table>
-432、vidsrc模块下载列表:
+442、vidsrc模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8838,7 +9051,7 @@
 <tr><td>vidsrc-2019.1.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wk5tx">点我下载</a></td></tr>
 </tbody>
 </table>
-433、vigranumpy模块下载列表:
+443、vigranumpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8852,7 +9065,7 @@
 <tr><td>vigranumpy-1.10.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wk51u">点我下载</a></td></tr>
 </tbody>
 </table>
-434、vispy模块下载列表:
+444、vispy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8875,7 +9088,7 @@
 <tr><td>vispy-0.6.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wk59s">点我下载</a></td></tr>
 </tbody>
 </table>
-435、VPython模块下载列表:
+445、VPython模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8883,7 +9096,7 @@
 <tr><td>VPython-5.74-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Vl5hv">点我下载</a></td></tr>
 </tbody>
 </table>
-436、VTK模块下载列表:
+446、VTK模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8923,7 +9136,7 @@
 <tr><td>VTK-5.10.1+qt486-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlJZu">点我下载</a></td></tr>
 </tbody>
 </table>
-437、vtk模块下载列表:
+447、vtk模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8946,7 +9159,7 @@
 <tr><td>vtk-8.1.2-cp35-cp35m-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/ZpyXkplw">点我下载</a></td></tr>
 </tbody>
 </table>
-438、winrandom模块下载列表:
+448、winrandom模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8966,7 +9179,7 @@
 <tr><td>winrandom-1.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlJpv">点我下载</a></td></tr>
 </tbody>
 </table>
-439、wordcloud模块下载列表:
+449、wordcloud模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -8998,7 +9211,7 @@
 <tr><td>wordcloud-1.6.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlJxs">点我下载</a></td></tr>
 </tbody>
 </table>
-440、wrapt模块下载列表:
+450、wrapt模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9021,7 +9234,7 @@
 <tr><td>wrapt-1.11.2-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlJ5u">点我下载</a></td></tr>
 </tbody>
 </table>
-441、wrf_python模块下载列表:
+451、wrf_python模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9043,7 +9256,7 @@
 <tr><td>wrf_python-1.0.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlZdq">点我下载</a></td></tr>
 </tbody>
 </table>
-442、wxPython模块下载列表:
+452、wxPython模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9051,7 +9264,7 @@
 <tr><td>wxPython-3.0.2.0-cp27-none-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlZhw">点我下载</a></td></tr>
 </tbody>
 </table>
-443、x86cpu模块下载列表:
+453、x86cpu模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9067,7 +9280,7 @@
 <tr><td>x86cpu-0.4-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlZhy">点我下载</a></td></tr>
 </tbody>
 </table>
-444、xgboost模块下载列表:
+454、xgboost模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9089,7 +9302,33 @@
 <tr><td>xgboost-0.82-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlZpp">点我下载</a></td></tr>
 </tbody>
 </table>
-445、xxhash模块下载列表:
+455、XlsxWriter模块下载列表:
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
+<tr><td>XlsxWriter-3.2.0-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZxw">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.1.9-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZxv">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.1.8-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZxu">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.1.7-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZxt">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.1.6-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZxs">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.1.5-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZxr">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.1.4-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZxq">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.1.3-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZxp">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.1.2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZty">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.1.1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZtx">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.1.0-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZtw">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.0.9-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZtv">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.0.2-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZtu">点我下载</a></td></tr>
+<tr><td>XlsxWriter-3.0.1-py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZtt">点我下载</a></td></tr>
+<tr><td>XlsxWriter-2.0.0-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZts">点我下载</a></td></tr>
+<tr><td>XlsxWriter-1.4.5-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZtr">点我下载</a></td></tr>
+<tr><td>XlsxWriter-1.4.0-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZtq">点我下载</a></td></tr>
+<tr><td>XlsxWriter-1.3.8-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZtp">点我下载</a></td></tr>
+<tr><td>XlsxWriter-1.2.8-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZpy">点我下载</a></td></tr>
+<tr><td>XlsxWriter-1.2.7-py2.py3-none-any.whl</td><td><a href="https://mbd.pub/o/bread/Zp2YlZpx">点我下载</a></td></tr>
+</tbody>
+</table>
+456、xxhash模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9112,7 +9351,7 @@
 <tr><td>xxhash-1.4.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlZtv">点我下载</a></td></tr>
 </tbody>
 </table>
-446、xylib_py模块下载列表:
+457、xylib_py模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9128,7 +9367,7 @@
 <tr><td>xylib_py-1.5.0-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlZ1u">点我下载</a></td></tr>
 </tbody>
 </table>
-447、yappi模块下载列表:
+458、yappi模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9146,7 +9385,7 @@
 <tr><td>yappi-1.2.3-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlZ5w">点我下载</a></td></tr>
 </tbody>
 </table>
-448、yarl模块下载列表:
+459、yarl模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9167,7 +9406,7 @@
 <tr><td>yarl-1.4.2-cp35-cp35m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2WlpZs">点我下载</a></td></tr>
 </tbody>
 </table>
-449、yt模块下载列表:
+460、yt模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9196,7 +9435,7 @@
 <tr><td>yt-3.5.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wlpdx">点我下载</a></td></tr>
 </tbody>
 </table>
-450、zeroc_ice模块下载列表:
+461、zeroc_ice模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9212,7 +9451,7 @@
 <tr><td>zeroc_ice-3.7.4-cp36-cp36m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wlppr">点我下载</a></td></tr>
 </tbody>
 </table>
-451、zfec模块下载列表:
+462、zfec模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9233,7 +9472,7 @@
 <tr><td>zfec-1.5.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wlptr">点我下载</a></td></tr>
 </tbody>
 </table>
-452、zfpy模块下载列表:
+463、zfpy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9255,7 +9494,7 @@
 <tr><td>zfpy-0.5.5-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wlpxy">点我下载</a></td></tr>
 </tbody>
 </table>
-453、zipline模块下载列表:
+464、zipline模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9273,7 +9512,7 @@
 <tr><td>zipline-1.3.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wlp5v">点我下载</a></td></tr>
 </tbody>
 </table>
-454、zodbpickle模块下载列表:
+465、zodbpickle模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9305,7 +9544,7 @@
 <tr><td>zodbpickle-1.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wlp9x">点我下载</a></td></tr>
 </tbody>
 </table>
-455、zope.interface模块下载列表:
+466、zope.interface模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9327,7 +9566,7 @@
 <tr><td>zope.interface-4.7.1-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wl5ht">点我下载</a></td></tr>
 </tbody>
 </table>
-456、zopfli模块下载列表:
+467、zopfli模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9347,7 +9586,7 @@
 <tr><td>zopfli-0.1.7-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wl5pp">点我下载</a></td></tr>
 </tbody>
 </table>
-457、zopflipy模块下载列表:
+468、zopflipy模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9370,7 +9609,7 @@
 <tr><td>zopflipy-1.3-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wl5tw">点我下载</a></td></tr>
 </tbody>
 </table>
-458、zs模块下载列表:
+469、zs模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
@@ -9388,7 +9627,7 @@
 <tr><td>zs-0.10.0-cp27-cp27m-win32.whl</td><td><a href="https://mbd.pub/o/bread/Zp2Wl51v">点我下载</a></td></tr>
 </tbody>
 </table>
-459、zstd模块下载列表:
+470、zstd模块下载列表:
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
