@@ -1120,6 +1120,14 @@ crcmod-1.7-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6TmZlp"
 crcmod-1.7-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp6TmZhy">下载</a><br>
 
 83. cupy模块:<br>
+cupy_cuda117-10.6.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yYmplt">下载</a><br>
+cupy_cuda117-10.6.0-cp310-cp310-manylinux1_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yYmpls">下载</a><br>
+cupy_cuda117-10.6.0-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yYmppp">下载</a><br>
+cupy_cuda117-10.6.0-cp39-cp39-manylinux1_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yYmply">下载</a><br>
+cupy_cuda117-10.6.0-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yYmplx">下载</a><br>
+cupy_cuda117-10.6.0-cp38-cp38-manylinux1_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yYmplw">下载</a><br>
+cupy_cuda117-10.6.0-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yYmplv">下载</a><br>
+cupy_cuda117-10.6.0-cp37-cp37m-manylinux1_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yYmplu">下载</a><br>
 cupy-10.5.0+cuda116-pp38-pypy38_pp73-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYl5ds">下载</a><br>
 cupy-10.5.0+cuda116-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYl5dt">下载</a><br>
 cupy-10.5.0+cuda116-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYl5dq">下载</a><br>
@@ -3068,6 +3076,7 @@ h5py-2.10.0-cp35-cp35m-win32.whl =><a href="https://mbd.pub/o/bread/Zp6Ul5lq">�
 h5py-2.10.0-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6Ul5lp">下载</a><br>
 h5py-2.10.0-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp6Ul5hy">下载</a><br>
 h5py-2.9.0-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyVmZls">下载</a><br>
+h5py-2.9.0-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yYk59t">下载</a><br>
 
 180. hcluster模块:<br>
 hcluster-0.2.0-cp27-none-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyZk5dv">下载</a><br>
@@ -5045,6 +5054,10 @@ numexpr-2.7.1-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6VlZ
 numexpr-2.7.1-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp6VlZ5y">下载</a><br>
 
 296. numpy模块:<br>
+numpy-2.2.0-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJxy">下载</a><br>
+numpy-2.2.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJ1p">下载</a><br>
+numpy-2.2.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJxw">下载</a><br>
+numpy-2.2.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJxx">下载</a><br>
 numpy-2.1.3-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WXmZ9q">下载</a><br>
 numpy-2.1.3-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WXmZ9p">下载</a><br>
 numpy-2.1.3-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WXmZ5y">下载</a><br>
@@ -6381,6 +6394,7 @@ pycryptosat-0.6.1-cp35-cp35m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp
 pycryptosat-0.6.1-cp35-cp35m-win32.whl =><a href="https://mbd.pub/o/bread/Zpyckp9r">下载</a><br>
 
 370. pycuda模块:<br>
+pycuda-2024.1.2+cuda117-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yZkpdx">下载</a><br>
 pycuda-2022.1+cuda116-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpyck55y">下载</a><br>
 pycuda-2022.1+cuda116-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/Zpyck55x">下载</a><br>
 pycuda-2022.1+cuda116-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpyck55w">下载</a><br>
@@ -7049,6 +7063,7 @@ pylibtiff-0.4.2-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2T
 pylibtiff-0.4.2-cp36-cp36m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2TkpZu">下载</a><br>
 
 414. pyltp模块:<br>
+pyltp-0.4.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yZk5tt">下载</a><br>
 pyltp-0.4.0-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyWmJ1p">下载</a><br>
 pyltp-0.4.0-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyWmJxy">下载</a><br>
 pyltp-0.4.0-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyWmJxx">下载</a><br>
@@ -8702,7 +8717,14 @@ reportlab-3.5.32-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2UmZh
 511. rfoo模块:<br>
 rfoo-1.3.0-cp27-none-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6Vl5Zp">下载</a><br>
 rfoo-1.3.0-cp27-none-win32.whl =><a href="https://mbd.pub/o/bread/Zp6Vlp9y">下载</a><br>
-
+511. rknn_toolkit模块:<br>
+rknn_toolkit-1.7.5-cp37-cp37m-macosx_10_15_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yYm51w">下载</a><br>
+rknn_toolkit-1.7.5-cp38-cp38-linux_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yYm51x">下载</a><br>
+rknn_toolkit-1.7.5-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yYm51u">下载</a><br>
+rknn_toolkit-1.7.5-cp36-cp36m-macosx_10_15_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yYm51t">下载</a><br>
+rknn_toolkit-1.7.5-cp37-cp37m-linux_aarch64.whl =><a href="https://mbd.pub/o/bread/Z5yYm51v">下载</a><br>
+rknn_toolkit-1.7.5-cp36-cp36m-linux_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yYm51s">下载</a><br>
+rknn_toolkit-1.7.5-cp35-cp35m-linux_aarch64.whl =><a href="https://mbd.pub/o/bread/Z5yYm51r">下载</a><br>
 512. rknn_toolkit2模块:<br>
 rknn_toolkit2-2.2.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Zp6akpdr">下载</a><br>
 rknn_toolkit2-2.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Zp6akpdq">下载</a><br>
@@ -10755,4 +10777,3 @@ zstd-1.4.4.0-cp35-cp35m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Wl59
 zstd-1.4.4.0-cp35-cp35m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Wl59s">下载</a><br>
 zstd-1.4.4.0-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Wl59r">下载</a><br>
 zstd-1.4.4.0-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Wl59q">下载</a><br>
-
