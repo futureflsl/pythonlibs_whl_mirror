@@ -4162,6 +4162,23 @@ mayavi-4.3.1+vtk510-cp27-none-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z
 mayavi-4.3.1+vtk510-cp27-none-win32.whl =><a href="https://mbd.pub/o/bread/ZpyalJlx">下载</a><br>
 
 251. mediapipe模块:<br>
+mediapipe-0.10.20-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yamp5v">下载</a><br>
+mediapipe-0.10.20-cp312-cp312-manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yamp5u">下载</a><br>
+mediapipe-0.10.20-cp312-cp312-manylinux_2_28_x86_64 (1).whl =><a href="https://mbd.pub/o/bread/Z5yamp5t">下载</a><br>
+mediapipe-0.10.20-cp312-cp312-macosx_11_0_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yamp5s">下载</a><br>
+mediapipe-0.10.20-cp312-cp312-macosx_11_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z5yamp5r">下载</a><br>
+mediapipe-0.10.20-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yamp5q">下载</a><br>
+mediapipe-0.10.20-cp311-cp311-manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yamp5p">下载</a><br>
+mediapipe-0.10.20-cp311-cp311-macosx_11_0_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yamp1y">下载</a><br>
+mediapipe-0.10.20-cp311-cp311-macosx_11_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z5yamp1x">下载</a><br>
+mediapipe-0.10.20-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yamp1w">下载</a><br>
+mediapipe-0.10.20-cp310-cp310-manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yamp1v">下载</a><br>
+mediapipe-0.10.20-cp310-cp310-macosx_11_0_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yamp1u">下载</a><br>
+mediapipe-0.10.20-cp310-cp310-macosx_11_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z5yamp1t">下载</a><br>
+mediapipe-0.10.20-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yamp9p">下载</a><br>
+mediapipe-0.10.20-cp39-cp39-manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yamp5y">下载</a><br>
+mediapipe-0.10.20-cp39-cp39-macosx_11_0_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yamp5x">下载</a><br>
+mediapipe-0.10.20-cp39-cp39-macosx_11_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z5yamp5w">下载</a><br>
 mediapipe-0.10.13-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2WmJdr">下载</a><br>
 mediapipe-0.10.13-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2WmJdq">下载</a><br>
 mediapipe-0.10.13-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2WmJdp">下载</a><br>
@@ -4170,6 +4187,22 @@ mediapipe-0.10.8-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp
 mediapipe-0.10.8-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2WmJdt">下载</a><br>
 mediapipe-0.10.8-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2WmJdw">下载</a><br>
 mediapipe-0.10.8-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2WmJdv">下载</a><br>
+mediapipe-0.10.8-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yam5dr">下载</a><br>
+mediapipe-0.10.8-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl =><a href="https://mbd.pub/o/bread/Z5yam5dq">下载</a><br>
+mediapipe-0.10.8-cp311-cp311-macosx_11_0_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yam5dp">下载</a><br>
+mediapipe-0.10.8-cp311-cp311-macosx_11_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z5yam5Zy">下载</a><br>
+mediapipe-0.10.8-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2WmJdt">下载</a><br>
+mediapipe-0.10.8-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yam5Zx">下载</a><br>
+mediapipe-0.10.8-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl =><a href="https://mbd.pub/o/bread/Z5yam5Zw">下载</a><br>
+mediapipe-0.10.8-cp310-cp310-macosx_11_0_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yam5Zv">下载</a><br>
+mediapipe-0.10.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yam5hp">下载</a><br>
+mediapipe-0.10.8-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl =><a href="https://mbd.pub/o/bread/Z5yam5dy">下载</a><br>
+mediapipe-0.10.8-cp39-cp39-macosx_11_0_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yam5dx">下载</a><br>
+mediapipe-0.10.8-cp39-cp39-macosx_11_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z5yam5dw">下载</a><br>
+mediapipe-0.10.8-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yam5dv">下载</a><br>
+mediapipe-0.10.8-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl =><a href="https://mbd.pub/o/bread/Z5yam5du">下载</a><br>
+mediapipe-0.10.8-cp38-cp38-macosx_11_0_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yam5dt">下载</a><br>
+mediapipe-0.10.8-cp38-cp38-macosx_11_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z5yam5ds">下载</a><br>
 mediapipe-0.9.3.0-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yWlJlp">下载</a><br>
 mediapipe-0.9.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yWlJhy">下载</a><br>
 mediapipe-0.9.3.0-cp39-cp39-macosx_12_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z5yWlJhx">下载</a><br>
@@ -6994,6 +7027,11 @@ pylibczi-2.1.0-cp36-cp36m-win32.whl =><a href="https://mbd.pub/o/bread/Zpycm5lu"
 pylibczi-2.1.0-cp35-cp35m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpycm5lt">下载</a><br>
 pylibczi-2.1.0-cp35-cp35m-win32.whl =><a href="https://mbd.pub/o/bread/Zpycm5ls">下载</a><br>
 
+407. pyLDAvis模块:<br>
+pyLDAvis-3.4.0-py2.py3-none-any.whl =><a href="https://mbd.pub/o/bread/Z5yam5xy">下载</a><br>
+pyLDAvis-3.4.0-py3-none-any.whl =><a href="https://mbd.pub/o/bread/Z5yam51p">下载</a><br>
+pyLDAvis-3.4.1-py3-none-any.whl =><a href="https://mbd.pub/o/bread/Z5yam51q">下载</a><br>
+
 407. pylibCZIrw模块:<br>
 pylibCZIrw-3.0.1-pp38-pypy38_pp73-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpycm5tw">下载</a><br>
 pylibCZIrw-3.0.1-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpycm5tp">下载</a><br>
@@ -8049,6 +8087,14 @@ python_ldap-2.5.2-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Uk5
 469. python_pcl模块:<br>
 python_pcl-0.3.1-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5ialZxw">下载</a><br>
 python_pcl-0.3.1-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5ialZxv">下载</a><br>
+python_pcl-0.3.0a1-cp37-cp37m-manylinux1_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJ9q">下载</a><br>
+python_pcl-0.3.0a1-cp37-cp37m-macosx_10_7_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJ9p">下载</a><br>
+python_pcl-0.3.0a1-cp36-cp36m-manylinux1_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJ5y">下载</a><br>
+python_pcl-0.3.0a1-cp36-cp36m-macosx_10_7_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJ5x">下载</a><br>
+python_pcl-0.3.0a1-cp35-cp35m-manylinux1_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJ5w">下载</a><br>
+python_pcl-0.3.0a1-cp35-cp35m-macosx_10_6_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJ5v">下载</a><br>
+python_pcl-0.3.0a1-cp27-cp27mu-manylinux1_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJ5u">下载</a><br>
+python_pcl-0.3.0a1-cp27-cp27m-macosx_10_14_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJ5t">下载</a><br>
 469. python_Levenshtein模块:<br>
 python_Levenshtein-0.12.2-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2UlJZq">下载</a><br>
 python_Levenshtein-0.12.2-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/Zp2UlJZp">下载</a><br>
@@ -10777,3 +10823,4 @@ zstd-1.4.4.0-cp35-cp35m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Wl59
 zstd-1.4.4.0-cp35-cp35m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Wl59s">下载</a><br>
 zstd-1.4.4.0-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Wl59r">下载</a><br>
 zstd-1.4.4.0-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Wl59q">下载</a><br>
+
