@@ -4210,7 +4210,6 @@ mayavi-4.3.1+vtk510-cp27-none-win32.whl =><a href="https://mbd.pub/o/bread/Zpyal
 251. mediapipe模块:<br>
 mediapipe-0.10.20-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yamp5v">下载</a><br>
 mediapipe-0.10.20-cp312-cp312-manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yamp5u">下载</a><br>
-mediapipe-0.10.20-cp312-cp312-manylinux_2_28_x86_64 (1).whl =><a href="https://mbd.pub/o/bread/Z5yamp5t">下载</a><br>
 mediapipe-0.10.20-cp312-cp312-macosx_11_0_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5yamp5s">下载</a><br>
 mediapipe-0.10.20-cp312-cp312-macosx_11_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z5yamp5r">下载</a><br>
 mediapipe-0.10.20-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yamp5q">下载</a><br>
