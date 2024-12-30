@@ -731,7 +731,12 @@ casa_formats_io-0.1-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/Zp6T
 53. casuarius模块:<br>
 casuarius-1.1-cp27-none-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6TlZps">下载</a><br>
 casuarius-1.1-cp27-none-win32.whl =><a href="https://mbd.pub/o/bread/Zp6TlZpr">下载</a><br>
-
+53. causal_conv1d模块:<br>
+causal_conv1d-1.5.0.post8-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WlZtt">下载</a><br>
+causal_conv1d-1.4.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WlZts">下载</a><br>
+causal_conv1d-1.3.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WlZtr">下载</a><br>
+causal_conv1d-1.2.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WlZtq">下载</a><br>
+causal_conv1d-1.1.1-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/mbd-Zpubmpps">下载</a><br>
 54. caterva模块:<br>
 caterva-0.7.2-pp38-pypy38_pp73-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6TlZtr">下载</a><br>
 caterva-0.7.2-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6TlZpu">下载</a><br>
