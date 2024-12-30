@@ -5206,6 +5206,7 @@ numpy-1.24.4-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyTm5
 numpy-1.24.4-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyTm5ps">下载</a><br>
 numpy-1.24.4-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyTm5pq">下载</a><br>
 numpy-1.24.4-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyTm5pp">下载</a><br>
+numpy-1.24.1-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52Wl5lu">下载</a><br>
 numpy-1.23.5+mkl-pp39-pypy39_pp73-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlpxu">下载</a><br>
 numpy-1.23.5+mkl-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlpxt">下载</a><br>
 numpy-1.23.5+mkl-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlpxr">下载</a><br>
