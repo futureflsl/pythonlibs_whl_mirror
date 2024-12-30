@@ -10169,12 +10169,20 @@ triangle-20190115.3-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/
 triangle-20190115.3-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2WkpZq">下载</a><br>
 
 598. triton模块:<br>
+triton-3.1.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52Wlppx">下载</a><br>
+triton-3.1.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52Wlppw">下载</a><br>
+triton-3.1.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52Wlppv">下载</a><br>
+triton-3.1.0-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52Wlptp">下载</a><br>
+triton-3.1.0-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52Wlppy">下载</a><br>
 triton-3.0.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5iZkplq">下载</a><br>
 triton-3.0.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5iZkphy">下载</a><br>
 triton-3.0.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5iZkplp">下载</a><br>
+triton-3.0.0-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52Wlppu">下载</a><br>
+triton-3.0.0-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52Wlppt">下载</a><br>
 triton-2.1.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WblJhu">下载</a><br>
 triton-2.1.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WblJhv">下载</a><br>
 triton-2.1.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WamZxt">下载</a><br>
+triton-2.0.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WamZtu">下载</a><br>
 triton-2.1.0-0-pp39-pypy39_pp73-manylinux2014_x86_64.manylinux_2_17_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5WamZxs">下载</a><br>
 triton-2.1.0-0-pp38-pypy38_pp73-manylinux2014_x86_64.manylinux_2_17_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5WamZxr">下载</a><br>
 triton-2.1.0-0-pp37-pypy37_pp73-manylinux2014_x86_64.manylinux_2_17_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5WamZxq">下载</a><br>
@@ -10183,7 +10191,6 @@ triton-2.1.0-0-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl =><a h
 triton-2.1.0-0-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5WamZxp">下载</a><br>
 triton-2.1.0-0-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5WamZty">下载</a><br>
 triton-2.1.0-0-cp37-cp37m-manylinux2014_x86_64.manylinux_2_17_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5WamZtx">下载</a><br>
-triton-2.0.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WamZtu">下载</a><br>
 triton-2.3.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5iakphu">下载</a><br>
 triton-2.3.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5iakpht">下载</a><br>
 triton-2.3.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5iakphr">下载</a><br>
@@ -10209,7 +10216,6 @@ triton-2.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a hre
 triton-2.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5iakpds">下载</a><br>
 triton-2.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5iakpdr">下载</a><br>
 triton-2.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z5iakpdq">下载</a><br>
-
 
 599. triton_transformer模块:<br>
 triton_transformer-0.1.1-py3-none-any.whl =><a href="https://mbd.pub/o/bread/Zp2Yl5xt">下载</a><br>
