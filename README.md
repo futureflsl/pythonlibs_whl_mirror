@@ -9775,6 +9775,23 @@ swiglpk-4.65.1-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Vl
 swiglpk-4.65.1-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Vlp5s">下载</a><br>
 
 576. ta_lib模块:<br>
+ta_lib-0.5.2-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z52WmJlv">下载</a><br>
+ta_lib-0.5.2-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WmJlu">下载</a><br>
+ta_lib-0.5.2-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Z52WmJlt">下载</a><br>
+ta_lib-0.5.2-cp312-cp312-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z52WmJls">下载</a><br>
+ta_lib-0.5.2-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WmJlr">下载</a><br>
+ta_lib-0.5.2-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/Z52WmJlq">下载</a><br>
+ta_lib-0.5.2-cp311-cp311-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z52WmJlp">下载</a><br>
+ta_lib-0.5.2-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WmJhy">下载</a><br>
+ta_lib-0.5.2-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/Z52WmJhx">下载</a><br>
+ta_lib-0.5.2-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WmJhw">下载</a><br>
+ta_lib-0.5.2-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/Z52WmJhv">下载</a><br>
+ta_lib-0.5.2-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WmJpr">下载</a><br>
+ta_lib-0.5.2-cp39-cp39-win32.whl =><a href="https://mbd.pub/o/bread/Z52WmJpq">下载</a><br>
+ta_lib-0.5.2-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WmJpp">下载</a><br>
+ta_lib-0.5.2-cp38-cp38-win32.whl =><a href="https://mbd.pub/o/bread/Z52WmJly">下载</a><br>
+ta_lib-0.5.2-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WmJlx">下载</a><br>
+ta_lib-0.5.2-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/Z52WmJlw">下载</a><br>
 ta_lib-0.5.1-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5eTmJpt">下载</a><br>
 ta_lib-0.5.1-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Z5eTmJps">下载</a><br>
 ta_lib-0.5.1-cp312-cp312-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z5eTmJpr">下载</a><br>
