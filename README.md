@@ -1,3 +1,4 @@
+温馨提示：whl列表太多部分已经在网页不显示，请下载文件后查询下载或者使用release中软件直接搜索下载
 1. abcview模块:<br>
 abcview-1.0.8-py2-none-any.whl =><a href="https://mbd.pub/o/bread/ZpyYmp1p">下载</a><br>
 
