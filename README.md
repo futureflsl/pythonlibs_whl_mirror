@@ -5264,6 +5264,7 @@ numpy-1.16.6+mkl-cp35-cp35m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpy
 numpy-1.16.6+mkl-cp35-cp35m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYk5tu">下载</a><br>
 numpy-1.16.6+mkl-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYk5tx">下载</a><br>
 numpy-1.16.6+mkl-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYk5tw">下载</a><br>
+numpy-1.16.6-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52bl5pw">下载</a><br>
 
 297. numpy_quaternion模块:<br>
 numpy_quaternion-2022.4.2-pp38-pypy38_pp73-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyamZhs">下载</a><br>
