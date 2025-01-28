@@ -3474,6 +3474,14 @@ pynut-1.1.3-py3-none-any.whl =><a href="https://mbd.pub/o/bread/Zp2Yl5Zy">下载
 pynut-1.1.2-py3-none-any.whl =><a href="https://mbd.pub/o/bread/Zp2Yl5Zx">下载</a><br>
 
 442. PyOpenGL模块:<br>
+PyOpenGL-3.1.9-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1s">下载</a><br>
+PyOpenGL-3.1.9-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1r">下载</a><br>
+PyOpenGL-3.1.9-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1q">下载</a><br>
+PyOpenGL-3.1.9-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1p">下载</a><br>
+PyOpenGL-3.1.9-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJxy">下载</a><br>
+PyOpenGL-3.1.9-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/Z56WmJxx">下载</a><br>
+PyOpenGL-3.1.9-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJxw">下载</a><br>
+PyOpenGL-3.1.9-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/Z56WmJxv">下载</a><br>
 PyOpenGL-3.1.8-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/Zp6XmZty">下载</a><br>
 PyOpenGL-3.1.8-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6XmZtx">下载</a><br>
 PyOpenGL-3.1.8-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Zp6XmZtw">下载</a><br>
@@ -3499,6 +3507,14 @@ PyOpenGL-3.1.6-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyXl
 PyOpenGL-3.1.6-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyXl5ls">下载</a><br>
 
 443. PyOpenGL_accelerate模块:<br>
+PyOpenGL_accelerate-3.1.9-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJ5q">下载</a><br>
+PyOpenGL_accelerate-3.1.9-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Z56WmJ5p">下载</a><br>
+PyOpenGL_accelerate-3.1.9-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1y">下载</a><br>
+PyOpenGL_accelerate-3.1.9-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1x">下载</a><br>
+PyOpenGL_accelerate-3.1.9-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1w">下载</a><br>
+PyOpenGL_accelerate-3.1.9-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1v">下载</a><br>
+PyOpenGL_accelerate-3.1.9-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1u">下载</a><br>
+PyOpenGL_accelerate-3.1.9-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1t">下载</a><br>
 PyOpenGL_accelerate-3.1.8-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/Zp6XmZ1r">下载</a><br>
 PyOpenGL_accelerate-3.1.8-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6XmZ1q">下载</a><br>
 PyOpenGL_accelerate-3.1.8-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Zp6XmZ1p">下载</a><br>
