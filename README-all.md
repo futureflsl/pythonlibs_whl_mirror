@@ -5411,6 +5411,18 @@ odo-0.5.0-py2.py3-none-any.whl =><a href="https://mbd.pub/o/bread/Zp6Vlpdp">下�
 oiffile-2022.2.2-py3-none-any.whl =><a href="https://mbd.pub/o/bread/ZpyamZ1y">下载</a><br>
 
 303. onnxruntime模块:<br>
+onnxruntime-1.20.1-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Xkpdv">下载</a><br>
+onnxruntime-1.20.1-cp313-cp313-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56Xkpdu">下载</a><br>
+onnxruntime-1.20.1-cp313-cp313-macosx_13_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z56Xkpdt">下载</a><br>
+onnxruntime-1.20.1-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Xkpds">下载</a><br>
+onnxruntime-1.20.1-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56Xkpdr">下载</a><br>
+onnxruntime-1.20.1-cp312-cp312-macosx_13_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z56Xkpdq">下载</a><br>
+onnxruntime-1.20.1-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Xkpdp">下载</a><br>
+onnxruntime-1.20.1-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56XkpZy">下载</a><br>
+onnxruntime-1.20.1-cp311-cp311-macosx_13_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z56XkpZx">下载</a><br>
+onnxruntime-1.20.1-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56XkpZw">下载</a><br>
+onnxruntime-1.20.1-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56XkpZv">下载</a><br>
+onnxruntime-1.20.1-cp310-cp310-macosx_13_0_universal2.whl =><a href="https://mbd.pub/o/bread/Z56XkpZu">下载</a><br>
 onnxruntime-1.20.0-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5eTm5hq">下载</a><br>
 onnxruntime-1.20.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5eTm5hp">下载</a><br>
 onnxruntime-1.20.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5eTm5dy">下载</a><br>
@@ -5523,6 +5535,14 @@ onnxruntime-1.7.0-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5
 onnxruntime-1.7.0-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5eTm5hr">下载</a><br>
 
 304. onnxruntime_gpu模块:<br>
+onnxruntime_gpu-1.20.1-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Xkpht">下载</a><br>
+onnxruntime_gpu-1.20.1-cp313-cp313-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56Xkphs">下载</a><br>
+onnxruntime_gpu-1.20.1-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Xkphr">下载</a><br>
+onnxruntime_gpu-1.20.1-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56Xkphq">下载</a><br>
+onnxruntime_gpu-1.20.1-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Xkphp">下载</a><br>
+onnxruntime_gpu-1.20.1-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56Xkpdy">下载</a><br>
+onnxruntime_gpu-1.20.1-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Xkpdx">下载</a><br>
+onnxruntime_gpu-1.20.1-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56Xkpdw">下载</a><br>
 onnxruntime_gpu-1.20.0-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5eTmZZx">下载</a><br>
 onnxruntime_gpu-1.20.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5eTmZZw">下载</a><br>
 onnxruntime_gpu-1.20.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5eTmZZv">下载</a><br>
