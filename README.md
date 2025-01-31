@@ -1,4 +1,7 @@
 温馨提示：whl列表太多部分已在网页不显示，请下载文件README-all.md后查询下载或者使用包含所有whl文件release中的软件直接搜索下载，完整列表访问README-all.md，README.md只列举常用whl模块
+（推荐）FIRC资源搜索下载工具，该工具包含源码、whl文件、数据集、软件、文档等资源，软件内部资源会不定时更新欢迎下载使用，注意仅适合windows上使用
+下载地址1：https://gitee.com/FIRC/firc-resource-downloader 
+下载地址2：https://github.com/futureflsl/firc-resource-downloader
 1. abcview模块:<br>
 abcview-1.0.8-py2-none-any.whl =><a href="https://mbd.pub/o/bread/ZpyYmp1p">下载</a><br>
 
