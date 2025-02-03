@@ -8005,6 +8005,16 @@ PyQwt-5.2.1-cp35-cp35m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Tl5Zy
 PyQwt-5.2.1-cp35-cp35m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Tl5Zx">下载</a><br>
 PyQwt-5.2.1-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Tl5Zw">下载</a><br>
 PyQwt-5.2.1-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Tl5Zv">下载</a><br>
+pyradiomics模块:<br>
+pyradiomics-3.1.1-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Yk5hv">下载</a><br>
+pyradiomics-3.1.1-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Yk5hu">下载</a><br>
+pyradiomics-3.0.1-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Yk5ht">下载</a><br>
+pyradiomics-3.0.1-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Yk5hw">下载</a><br>
+pyradiomics-3.0.1-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/mbd-Zpubmp5w">下载</a><br>
+pyradiomics-3.0.1-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/mbd-Zpubmp5v">下载</a><br>
+pyradiomics-3.0.1-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/mbd-Zpubmp5s">下载</a><br>
+pyradiomics-3.0.1-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/mbd-Zpubmp5r">下载</a><br>
+pyradiomics-3.0.1-cp37-cp37-win_amd64.whl =><a href="https://mbd.pub/o/bread/mbd-Zpubmp5p">下载</a><br>
 
 450. pyrsistent模块:<br>
 pyrsistent-0.18.1-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Tl5lt">下载</a><br>
