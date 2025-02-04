@@ -3356,6 +3356,18 @@ PyMca-4.7.4-cp27-none-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Tkp5s"
 PyMca-4.7.4-cp27-none-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Tkp5r">下载</a><br>
 
 428. pymol模块:<br>
+pymol-3.1.0-pp310-pypy310_pp73-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56YlJts">下载</a><br>
+pymol-3.1.0-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z56YlJtr">下载</a><br>
+pymol-3.1.0-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56YlJtq">下载</a><br>
+pymol-3.1.0-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Z56YlJtp">下载</a><br>
+pymol-3.1.0-cp312-cp312-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z56YlJpy">下载</a><br>
+pymol-3.1.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56YlJpx">下载</a><br>
+pymol-3.1.0-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/Z56YlJpw">下载</a><br>
+pymol-3.1.0-cp311-cp311-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z56YlJpv">下载</a><br>
+pymol-3.1.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56YlJpu">下载</a><br>
+pymol-3.1.0-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/Z56YlJpt">下载</a><br>
+pymol-3.1.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56YlJps">下载</a><br>
+pymol-3.1.0-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/Z56YlJpr">下载</a><br>
 pymol-3.1.0a0-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUl59v">下载</a><br>
 pymol-3.1.0a0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUl59u">下载</a><br>
 pymol-3.1.0a0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUl59t">下载</a><br>
@@ -3406,6 +3418,17 @@ pymol-2.1.0-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyXm5Zw
 pymol-2.1.0-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyXm5Zx">下载</a><br>
 
 429. pymol_launcher模块:<br>
+pymol_launcher-3.1-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z56YlJxt">下载</a><br>
+pymol_launcher-3.1-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56YlJxs">下载</a><br>
+pymol_launcher-3.1-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Z56YlJxr">下载</a><br>
+pymol_launcher-3.1-cp312-cp312-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z56YlJxq">下载</a><br>
+pymol_launcher-3.1-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56YlJxp">下载</a><br>
+pymol_launcher-3.1-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/Z56YlJty">下载</a><br>
+pymol_launcher-3.1-cp311-cp311-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z56YlJtx">下载</a><br>
+pymol_launcher-3.1-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56YlJtw">下载</a><br>
+pymol_launcher-3.1-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/Z56YlJtv">下载</a><br>
+pymol_launcher-3.1-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56YlJtu">下载</a><br>
+pymol_launcher-3.1-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/Z56YlJtt">下载</a><br>
 pymol_launcher-3.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUl55p">下载</a><br>
 pymol_launcher-3.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUl51y">下载</a><br>
 pymol_launcher-3.0-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUl5pp">下载</a><br>
