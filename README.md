@@ -2641,6 +2641,12 @@ openbabel-2.4.1-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpya
 openbabel-2.4.1-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyamZ5x">下载</a><br>
 
 307. opencv_python模块:<br>
+opencv_python-4.11.0.86-cp37-abi3-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Yl5xq">下载</a><br>
+opencv_python-4.11.0.86-cp37-abi3-win32.whl =><a href="https://mbd.pub/o/bread/Z56Yl5xp">下载</a><br>
+opencv_python-4.11.0.86-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56Yl5ty">下载</a><br>
+opencv_python-4.11.0.86-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl =><a href="https://mbd.pub/o/bread/Z56Yl5tx">下载</a><br>
+opencv_python-4.11.0.86-cp37-abi3-macosx_13_0_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56Yl5tw">下载</a><br>
+opencv_python-4.11.0.86-cp37-abi3-macosx_13_0_arm64.whl =><a href="https://mbd.pub/o/bread/Z56Yl5tv">下载</a><br>
 opencv_python-4.10.0.84-cp37-abi3-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlJhr">下载</a><br>
 opencv_python-4.10.0.82-cp37-abi3-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlJhq">下载</a><br>
 opencv_python-4.9.0.80-cp37-abi3-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlJhp">下载</a><br>
