@@ -10482,6 +10482,11 @@ triangle-20190115.3-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/
 triangle-20190115.3-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2WkpZq">下载</a><br>
 
 598. triton模块:<br>
+triton-3.2.0-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56alpxs">下载</a><br>
+triton-3.2.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56alpxr">下载</a><br>
+triton-3.2.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56alpxq">下载</a><br>
+triton-3.2.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56alpxv">下载</a><br>
+triton-3.2.0-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56alpxt">下载</a><br>
 triton-3.1.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52Wlppx">下载</a><br>
 triton-3.1.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52Wlppw">下载</a><br>
 triton-3.1.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52Wlppv">下载</a><br>
