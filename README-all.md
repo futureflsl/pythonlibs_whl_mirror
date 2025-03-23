@@ -10518,6 +10518,16 @@ triton-2.1.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WblJ
 triton-2.1.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WblJhv">下载</a><br>
 triton-2.1.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WamZxt">下载</a><br>
 triton-2.0.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5WamZtu">下载</a><br>
+triton-3.2.0-cp313-cp313-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/aJaYlpdu">下载</a><br>
+triton-3.2.0-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/aJaYlpdv">下载</a><br>
+triton-3.2.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/aJaYlpdw">下载</a><br>
+triton-3.2.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/aJaYlpZx">下载</a><br>
+triton-3.2.0-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/aJaYlpZy">下载</a><br>
+triton-3.2.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/aJaYlpdp">下载</a><br>
+triton-3.2.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/aJaYlpdq">下载</a><br>
+triton-3.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/aJaYlpdr">下载</a><br>
+triton-3.2.0-cp39-cp39-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl =><a href="https://mbd.pub/o/bread/aJaYlpds">下载</a><br>
+triton-3.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/aJaYlpdt">下载</a><br>
 triton-3.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56UlpZx">下载</a><br>
 triton-3.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56UlpZw">下载</a><br>
 triton-3.1.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl =><a href="https://mbd.pub/o/bread/Z56UlpZv">下载</a><br>
