@@ -2928,6 +2928,8 @@ psycopg2-2.8.4-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpybl
 psycopg2-2.8.4-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyblZ1s">下载</a><br>
 
 357. PyAudio模块:<br>
+PyAudio-0.2.14-cp313-cp313-win_amd64.whl	https://mbd.pub/o/bread/aJaakphp
+PyAudio-0.2.14-cp313-cp313-win32.whl	https://mbd.pub/o/bread/aJaakphq
 PyAudio-0.2.14-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlJ5w">下载</a><br>
 PyAudio-0.2.14-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlJ5v">下载</a><br>
 PyAudio-0.2.14-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlJ5u">下载</a><br>
