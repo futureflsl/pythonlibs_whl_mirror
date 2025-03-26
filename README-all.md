@@ -6383,6 +6383,8 @@ pyasn-1.6.0b1-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpyblp
 pyasn-1.6.0b1-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zpyblp1t">下载</a><br>
 
 357. PyAudio模块:<br>
+PyAudio-0.2.14-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaakphp">下载</a><br>
+PyAudio-0.2.14-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/aJaakphq">下载</a><br>
 PyAudio-0.2.14-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlJ5w">下载</a><br>
 PyAudio-0.2.14-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlJ5v">下载</a><br>
 PyAudio-0.2.14-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUlJ5u">下载</a><br>
