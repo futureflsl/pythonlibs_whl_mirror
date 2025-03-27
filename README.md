@@ -4875,7 +4875,13 @@ TA_Lib-0.4.29-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpucm
 TA_Lib-0.4.29-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/Zpucm5ht">下载</a><br>
 TA_Lib-0.4.29-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpucm5hq">下载</a><br>
 TA_Lib-0.4.29-cp39-cp39-win32.whl =><a href="https://mbd.pub/o/bread/Zpucm5hr">下载</a><br>
-TA_Lib-0.4.28-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpucm5hp">下载</a><br>
+TA_Lib-0.4.28-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaak5pr">下载</a><br>
+TA_Lib-0.4.28-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaak5pq">下载</a><br>
+TA_Lib-0.4.28-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaak5pp">下载</a><br>
+TA_Lib-0.4.28-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaak5ly">下载</a><br>
+TA_Lib-0.4.28-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaak5pu">下载</a><br>
+TA_Lib-0.4.28-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaak5pt">下载</a><br>
+TA_Lib-0.4.28-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaak5ps">下载</a><br>
 TA_Lib-0.4.26-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpucm5dx">下载</a><br>
 TA_Lib-0.4.26-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/Zpucm5dy">下载</a><br>
 TA_Lib-0.4.26-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpucm5dv">下载</a><br>
