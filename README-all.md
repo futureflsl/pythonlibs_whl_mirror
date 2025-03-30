@@ -4572,6 +4572,7 @@ milksets-0.2-py2.py3-none-any.whl =><a href="https://mbd.pub/o/bread/ZpyalZht">�
 
 258. minepy模块:<br>
 minepy-1.2.6-pp38-pypy38_pp73-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyalZlu">下载</a><br>
+minepy-1.2.6-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaam5xp">下载</a><br>
 minepy-1.2.6-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2WmpZu">下载</a><br>
 minepy-1.2.6-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyXlZpu">下载</a><br>
 minepy-1.2.6-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/ZpyalZlq">下载</a><br>
