@@ -239,6 +239,10 @@ autobahn-22.3.2-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6T
 autobahn-22.3.2-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/Zp6Tkphv">下载</a><br>
 
 17. autopy模块:<br>
+autopy-4.0.0-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJabk5Zt">下载</a><br>
+autopy-4.0.0-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJabk5Zs">下载</a><br>
+autopy-4.0.0-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJabk5Zv">下载</a><br>
+autopy-4.0.0-cp35-cp35m-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJabk5Zu">下载</a><br>
 autopy-0.51-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYlJ9s">下载</a><br>
 autopy-0.51-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYlJ9t">下载</a><br>
 
