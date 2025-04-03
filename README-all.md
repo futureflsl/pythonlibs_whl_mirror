@@ -5234,6 +5234,10 @@ numexpr-2.7.1-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6VlZ
 numexpr-2.7.1-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp6VlZ5y">下载</a><br>
 
 296. numpy模块:<br>
+numpy-2.2.4-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaclJ5x">下载</a><br>
+numpy-2.2.4-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaclJ5w">下载</a><br>
+numpy-2.2.4-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaclJ5v">下载</a><br>
+numpy-2.2.4-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJaclJ5y">下载</a><br>
 numpy-2.2.0-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJxy">下载</a><br>
 numpy-2.2.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJ1p">下载</a><br>
 numpy-2.2.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5yZlJxw">下载</a><br>
