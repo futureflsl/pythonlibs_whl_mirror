@@ -2363,10 +2363,15 @@ numpy-1.19.5+mkl-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6
 numpy-1.19.5+mkl-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYk5px">下载</a><br>
 numpy-1.19.5+mkl-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYk5tp">下载</a><br>
 numpy-1.19.5+mkl-cp36-cp36m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYk5lx">下载</a><br>
+numpy-1.19.4+mkl-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeTlZ5t">下载</a><br>
+numpy-1.19.4+mkl-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeTlZ5s">下载</a><br>
+numpy-1.19.4+mkl-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeTlZ5r">下载</a><br>
+numpy-1.19.4+mkl-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeTlZ5q">下载</a><br>
 numpy-1.19.3-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyTm5hw">下载</a><br>
 numpy-1.19.3-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyTm5hv">下载</a><br>
 numpy-1.19.3-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyTm5hu">下载</a><br>
 numpy-1.19.3-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyTm5Zw">下载</a><br>
+numpy-1.19.2+mkl-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeTlZ5p">下载</a><br>
 numpy-1.16.6+vanilla-cp35-cp35m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYk5tq">下载</a><br>
 numpy-1.16.6+vanilla-cp35-cp35m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYk5py">下载</a><br>
 numpy-1.16.6+vanilla-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYk5ts">下载</a><br>
