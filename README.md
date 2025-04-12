@@ -3249,6 +3249,27 @@ pyheif-0.8.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5mUmp
 pyheif-0.8.0-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5mUmppx">下载</a><br>
 pyheif-0.8.0-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5mUmppw">下载</a><br>
 pyheif-0.8.0-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5mUmppv">下载</a><br>
+pyheif-0.7.0-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVl5Zr">下载</a><br>
+pyheif-0.7.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVl5Zq">下载</a><br>
+pyheif-0.7.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVl5Zp">下载</a><br>
+pyheif-0.7.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp9y">下载</a><br>
+pyheif-0.7.0-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp9x">下载</a><br>
+pyheif-0.7.0-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp9w">下载</a><br>
+pyheif-0.7.0-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp9v">下载</a><br>
+pyheif-0.6.1-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp9u">下载</a><br>
+pyheif-0.6.1-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp9t">下载</a><br>
+pyheif-0.6.1-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp9s">下载</a><br>
+pyheif-0.6.1-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp9r">下载</a><br>
+pyheif-0.6.1-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp9q">下载</a><br>
+pyheif-0.6.1-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp9p">下载</a><br>
+pyheif-0.6.1-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp5y">下载</a><br>
+pyheif-0.5.1-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp5x">下载</a><br>
+pyheif-0.5.1-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVlp5w">下载</a><br>
+pyheif-0.5.1-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVl5Zw">下载</a><br>
+pyheif-0.5.1-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVl5Zv">下载</a><br>
+pyheif-0.5.1-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVl5Zu">下载</a><br>
+pyheif-0.5.1-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVl5Zt">下载</a><br>
+pyheif-0.5.1-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJeVl5Zs">下载</a><br>
 397. pyHook模块:<br>
 pyHook-1.5.1-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpycmJpt">下载</a><br>
 pyHook-1.5.1-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/ZpycmJps">下载</a><br>
