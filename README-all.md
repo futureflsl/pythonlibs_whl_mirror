@@ -6129,7 +6129,26 @@ PartSegCore_compiled_backend-0.12.0a0-cp36-cp36m-win32.whl =><a href="https://mb
 
 323. PartSegData模块:<br>
 PartSegData-0.10.0-py3-none-any.whl =><a href="https://mbd.pub/o/bread/Zpybkppw">下载</a><br>
-
+pclpy模块:<br>
+pclpy-0.11.0-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1waA==">下载</a><br>
+pclpy-0.10.0-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1wZw==">下载</a><br>
+pclpy-0.9.0-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1yZQ==">下载</a><br>
+pclpy-0.8.2-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1yZA==">下载</a><br>
+pclpy-0.8.1-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1xbQ==">下载</a><br>
+pclpy-0.8.0-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1xbA==">下载</a><br>
+pclpy-0.6.3-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1xaw==">下载</a><br>
+pclpy-0.6.2-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1xag==">下载</a><br>
+pclpy-0.6.1-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1xaQ==">下载</a><br>
+pclpy-0.6.0-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1xaA==">下载</a><br>
+pclpy-0.5.3-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1xZw==">下载</a><br>
+pclpy-0.5.2-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1xZg==">下载</a><br>
+pclpy-0.5.1-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1xZQ==">下载</a><br>
+pclpy-0.5.0-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1xZA==">下载</a><br>
+pclpy-0.4.1-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1wbQ==">下载</a><br>
+pclpy-0.3.9-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1wbA==">下载</a><br>
+pclpy-0.3.8-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1waw==">下载</a><br>
+pclpy-0.3.5-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1wag==">下载</a><br>
+pclpy-0.3.10-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWTmJ1waQ==">下载</a><br>
 324. peewee模块:<br>
 peewee-3.15.0-py3-none-any.whl =><a href="https://mbd.pub/o/bread/Zpybkpxr">下载</a><br>
 peewee-3.15.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpybkptw">下载</a><br>
