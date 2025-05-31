@@ -6073,7 +6073,19 @@ osqp-0.6.1-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zpyam55u">下
 318. oursql模块:<br>
 oursql-0.9.3.1-cp27-none-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpyam59w">下载</a><br>
 oursql-0.9.3.1-cp27-none-win32.whl =><a href="https://mbd.pub/o/bread/Zpyam59v">下载</a><br>
-
+pyalembic模块:<br>
+pyalembic-1.8.8-cp314-cp314-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWUkphraw==">下载</a><br>
+pyalembic-1.8.8-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWUkphrag==">下载</a><br>
+pyalembic-1.8.8-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWUkphraQ==">下载</a><br>
+pyalembic-1.8.8-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWUkphraA==">下载</a><br>
+pyalembic-1.8.8-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWUkphrZw==">下载</a><br>
+pyalembic-1.8.8-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWUkphrZg==">下载</a><br>
+pyalembic-1.8.8-cp312-cp312-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWUkphrZQ==">下载</a><br>
+pyalembic-1.8.8-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWUkphrZA==">下载</a><br>
+pyalembic-1.8.8-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWUkphqbQ==">下载</a><br>
+pyalembic-1.8.8-cp311-cp311-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWUkphqbA==">下载</a><br>
+pyalembic-1.8.8-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWUkphqaw==">下载</a><br>
+pyalembic-1.8.8-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWUkphqag==">下载</a><br>
 319. pandas模块:<br>
 pandas-1.4.3-pp38-pypy38_pp73-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpybkphr">下载</a><br>
 pandas-1.4.3-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpybkpdw">下载</a><br>
