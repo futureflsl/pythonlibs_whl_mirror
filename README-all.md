@@ -10286,6 +10286,24 @@ swiglpk-4.65.1-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Vl
 swiglpk-4.65.1-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Vlp5s">下载</a><br>
 
 577. TA_Lib模块:<br>
+<tr><td>ta_lib-0.6.4-cp314-cp314-win_arm64.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59qZg==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp314-cp314-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59qZQ==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp314-cp314-win32.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59qZA==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp313-cp313-win_arm64.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59pbQ==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59rag==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp313-cp313-win32.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59raQ==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp312-cp312-win_arm64.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59raA==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59rZw==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp312-cp312-win32.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59rZg==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp311-cp311-win_arm64.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59rZQ==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59rZA==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp311-cp311-win32.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59qbQ==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp310-cp310-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59qbA==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp310-cp310-win32.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59qaw==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp39-cp39-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59qag==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp39-cp39-win32.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59qaQ==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp38-cp38-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59qaA==">下载</a></td></tr>
+<tr><td>ta_lib-0.6.4-cp38-cp38-win32.whl</td><td><a href="https://mbd.pub/o/bread/YZWUl59qZw==">下载</a></td></tr>
 ta_lib-0.6.3-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z56blp1p">下载</a><br>
 ta_lib-0.6.3-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56blpxy">下载</a><br>
 ta_lib-0.6.3-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Z56blpxx">下载</a><br>
