@@ -40,6 +40,18 @@ aggdraw-1.3.11-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2cm
 aggdraw-1.3.11-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2cmp1v">下载</a><br>
 
 23. basemap模块:<br>
+basemap-2.0.0-cp314-cp314-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdvag==">下载</a><br>
+basemap-2.0.0-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdvaQ==">下载</a><br>
+basemap-2.0.0-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJdvaA==">下载</a><br>
+basemap-2.0.0-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdvZw==">下载</a><br>
+basemap-2.0.0-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdvZg==">下载</a><br>
+basemap-2.0.0-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJdvZQ==">下载</a><br>
+basemap-2.0.0-cp312-cp312-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdvZA==">下载</a><br>
+basemap-2.0.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdubQ==">下载</a><br>
+basemap-2.0.0-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJdubA==">下载</a><br>
+basemap-2.0.0-cp311-cp311-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJduaw==">下载</a><br>
+basemap-2.0.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJduag==">下载</a><br>
+basemap-2.0.0-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJduaQ==">下载</a><br>
 basemap-1.4.1-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/Z56Umpts">下载</a><br>
 basemap-1.4.1-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56Umptr">下载</a><br>
 basemap-1.4.1-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Z56Umptq">下载</a><br>
@@ -886,6 +898,18 @@ fonttools-4.18.2-cp36-cp36m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYmJt
 fonttools-3.44.0-py2.py3-none-any.whl =><a href="https://mbd.pub/o/bread/ZpyYmJtt">下载</a><br>
 
 157. GDAL模块:<br>
+gdal-3.11.1-cp314-cp314-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdxZQ==">下载</a><br>
+gdal-3.11.1-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdxZA==">下载</a><br>
+gdal-3.11.1-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJdwbQ==">下载</a><br>
+gdal-3.11.1-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdwbA==">下载</a><br>
+gdal-3.11.1-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdwaw==">下载</a><br>
+gdal-3.11.1-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJdwag==">下载</a><br>
+gdal-3.11.1-cp312-cp312-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdwaQ==">下载</a><br>
+gdal-3.11.1-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdwaA==">下载</a><br>
+gdal-3.11.1-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJdwZw==">下载</a><br>
+gdal-3.11.1-cp311-cp311-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdwZg==">下载</a><br>
+gdal-3.11.1-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdwZQ==">下载</a><br>
+gdal-3.11.1-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJdwZA==">下载</a><br>
 gdal-3.10.2-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/aJablZtq">下载</a><br>
 gdal-3.10.2-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJablZtr">下载</a><br>
 gdal-3.10.2-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/aJablZpu">下载</a><br>
@@ -4907,6 +4931,18 @@ seqlearn-0.2-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Vkpp
 seqlearn-0.2-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Vkppt">下载</a><br>
 
 552. Shapely模块:<br>
+shapely-2.1.1-cp314-cp314-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJhpbQ==">下载</a><br>
+shapely-2.1.1-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJhpbA==">下载</a><br>
+shapely-2.1.1-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJhpaw==">下载</a><br>
+shapely-2.1.1-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJhpag==">下载</a><br>
+shapely-2.1.1-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJhpaQ==">下载</a><br>
+shapely-2.1.1-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJhpaA==">下载</a><br>
+shapely-2.1.1-cp312-cp312-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJhpZw==">下载</a><br>
+shapely-2.1.1-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJhpZg==">下载</a><br>
+shapely-2.1.1-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJhpZQ==">下载</a><br>
+shapely-2.1.1-cp311-cp311-win_arm64.whl =><a href="https://mbd.pub/o/bread/YZWVlJhpZA==">下载</a><br>
+shapely-2.1.1-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVlJdybQ==">下载</a><br>
+shapely-2.1.1-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWVlJdybA==">下载</a><br>
 shapely-2.0.7-cp313-cp313-win_arm64.whl =><a href="https://mbd.pub/o/bread/aJablp9r">下载</a><br>
 shapely-2.0.7-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/aJablp5y">下载</a><br>
 shapely-2.0.7-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/aJabl5Zv">下载</a><br>
