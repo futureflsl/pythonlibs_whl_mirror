@@ -8619,7 +8619,33 @@ pyswisseph-2.0.0.post2-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Z
 464. python_cjson模块:<br>
 python_cjson-1.2.1-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Uk5hy">下载</a><br>
 python_cjson-1.2.1-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Uk5hx">下载</a><br>
-
+python_curses模块:<br>
+python_curses-2.2.4-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpaA==">下载</a><br>
+python_curses-2.2.4-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpaQ==">下载</a><br>
+python_curses-2.2.4-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpZg==">下载</a><br>
+python_curses-2.2.4-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpZw==">下载</a><br>
+python_curses-2.2.4-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpZA==">下载</a><br>
+python_curses-2.2.4-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpZQ==">下载</a><br>
+python_curses-2.2.4-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpag==">下载</a><br>
+python_curses-2.2.4-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5ZybQ==">下载</a><br>
+python_curses-2.2.3-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpbQ==">下载</a><br>
+python_curses-2.2.3-cp39-cp39-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpbA==">下载</a><br>
+python_curses-2.2.3-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5dqag==">下载</a><br>
+python_curses-2.2.3-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5dqaw==">下载</a><br>
+python_curses-2.2.3-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5dqaQ==">下载</a><br>
+python_curses-2.2.3-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5dqaA==">下载</a><br>
+python_curses-2.2.3-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5dqZw==">下载</a><br>
+python_curses-2.2.3-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5dqZg==">下载</a><br>
+python_curses-2.2.3-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5dqZQ==">下载</a><br>
+python_curses-2.2.3-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5dqZA==">下载</a><br>
+python_curses-2.2.2-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5draA==">下载</a><br>
+python_curses-2.2.2-cp39-cp39-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5drZw==">下载</a><br>
+python_curses-2.2.2-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5drZg==">下载</a><br>
+python_curses-2.2.2-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5drZQ==">下载</a><br>
+python_curses-2.2.2-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5drZA==">下载</a><br>
+python_curses-2.2.2-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5dqbQ==">下载</a><br>
+python_curses-2.2.2-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5drag==">下载</a><br>
+python_curses-2.2.2-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5draQ==">下载</a><br>
 465. python_geohash模块:<br>
 python_geohash-0.8.5-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Uk5ls">下载</a><br>
 python_geohash-0.8.5-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Uk5lr">下载</a><br>
