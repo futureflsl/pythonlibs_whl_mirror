@@ -2,6 +2,7 @@
 （推荐）FIRC资源搜索下载工具，该工具包含源码、whl文件、数据集、软件、文档等资源，软件内部资源会不定时更新欢迎下载使用，注意下载对应操作系统版本<br>
 PC-windows下载地址1：https://gitee.com/FIRC/firc-resource-downloader <br>
 PC-windows下载地址2：https://github.com/futureflsl/firc-resource-downloader<br>
+完整excel表格汇总：https://www.kdocs.cn/l/cq2TEMvK2Ju8
 1. abcview模块:<br>
 abcview-1.0.8-py2-none-any.whl =><a href="https://mbd.pub/o/bread/ZpyYmp1p">下载</a><br>
 
