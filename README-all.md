@@ -7521,6 +7521,10 @@ pyksvd-0.1-cp27-none-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpycm5dx">
 pyksvd-0.1-cp27-none-win32.whl =><a href="https://mbd.pub/o/bread/Zpycm5dw">下载</a><br>
 
 405. pyldap模块:<br>
+python_ldap-3.4.4-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwbQ==">下载</a><br>
+python_ldap-3.4.4-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwbA==">下载</a><br>
+python_ldap-3.4.4-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwaw==">下载</a><br>
+python_ldap-3.4.4-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWXlJZxZA==">下载</a><br>
 pyldap-2.4.45-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpycm5hv">下载</a><br>
 pyldap-2.4.45-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/Zpycm5hu">下载</a><br>
 pyldap-2.4.45-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zpycm5ht">下载</a><br>
@@ -8097,6 +8101,14 @@ pyopencl-2018.1.1+cl12-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bre
 pyopencl-2018.1.1+cl12-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2TlZly">下载</a><br>
 
 442. PyOpenGL模块:<br>
+pyopengl-3.1.10-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZvaw==">下载</a><br>
+pyopengl-3.1.10-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWXlJZvbA==">下载</a><br>
+pyopengl-3.1.10-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZvaQ==">下载</a><br>
+pyopengl-3.1.10-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWXlJZvag==">下载</a><br>
+pyopengl-3.1.10-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZvZw==">下载</a><br>
+pyopengl-3.1.10-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWXlJZvaA==">下载</a><br>
+pyopengl-3.1.10-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZvZQ==">下载</a><br>
+pyopengl-3.1.10-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWXlJZvZg==">下载</a><br>
 PyOpenGL-3.1.9-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1s">下载</a><br>
 PyOpenGL-3.1.9-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1r">下载</a><br>
 PyOpenGL-3.1.9-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1q">下载</a><br>
@@ -8130,6 +8142,14 @@ PyOpenGL-3.1.6-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyXl
 PyOpenGL-3.1.6-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyXl5ls">下载</a><br>
 
 443. PyOpenGL_accelerate模块:<br>
+pyopengl_accelerate-3.1.10-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwaQ==">下载</a><br>
+pyopengl_accelerate-3.1.10-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWXlJZvZA==">下载</a><br>
+pyopengl_accelerate-3.1.10-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwZw==">下载</a><br>
+pyopengl_accelerate-3.1.10-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwaA==">下载</a><br>
+pyopengl_accelerate-3.1.10-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwZQ==">下载</a><br>
+pyopengl_accelerate-3.1.10-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwZg==">下载</a><br>
+pyopengl_accelerate-3.1.10-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZvbQ==">下载</a><br>
+pyopengl_accelerate-3.1.10-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwZA==">下载</a><br>
 PyOpenGL_accelerate-3.1.9-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJ5q">下载</a><br>
 PyOpenGL_accelerate-3.1.9-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/Z56WmJ5p">下载</a><br>
 PyOpenGL_accelerate-3.1.9-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z56WmJ1y">下载</a><br>
