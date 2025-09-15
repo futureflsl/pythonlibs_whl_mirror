@@ -10454,6 +10454,14 @@ swiglpk-4.65.1-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2Vl
 swiglpk-4.65.1-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Vlp5s">下载</a><br>
 
 577. TA_Lib模块:<br>
+ta_lib-0.6.7-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXmJ5sZw==">下载</a><br>
+ta_lib-0.6.7-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWXmJ5saA==">下载</a><br>
+ta_lib-0.6.7-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXmJ5sZQ==">下载</a><br>
+ta_lib-0.6.7-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWXmJ5sZg==">下载</a><br>
+ta_lib-0.6.7-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXmJ5saw==">下载</a><br>
+ta_lib-0.6.7-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWXmJ5sbA==">下载</a><br>
+ta_lib-0.6.7-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXmJ5saQ==">下载</a><br>
+ta_lib-0.6.7-cp310-cp310-win32.whl =><a href="https://mbd.pub/o/bread/YZWXmJ5sag==">下载</a><br>
 ta_lib-0.6.5-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWWlJhsZQ==">下载</a><br>
 ta_lib-0.6.5-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWWlJhrZA==">下载</a><br>
 ta_lib-0.6.5-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWWlJhrbQ==">下载</a><br>
