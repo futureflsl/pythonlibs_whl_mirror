@@ -1817,6 +1817,9 @@ ecos-2.0.10-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYmJhv"
 ecos-2.0.10-cp38-cp38-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYmJhw">下载</a><br>
 ecos-2.0.10-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYmJht">下载</a><br>
 ecos-2.0.10-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYmJhu">下载</a><br>
+ecos-2.0.7.post1-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYk5dsbA==">下载</a><br>
+ecos-2.0.7.post1-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYk5dsaw==">下载</a><br>
+ecos-2.0.7.post1-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYk5dtZQ==">下载</a><br>
 ecos-2.0.7.post1-cp36-cp36m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYmJhr">下载</a><br>
 ecos-2.0.7.post1-cp36-cp36m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYmJhs">下载</a><br>
 ecos-2.0.7.post1-cp35-cp35m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYmJhp">下载</a><br>
