@@ -4247,6 +4247,14 @@ pyspharm-1.0.9-cp35-cp35m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2TmJ1x"
 pyspharm-1.0.9-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2TmJ1u">下载</a><br>
 pyspharm-1.0.9-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2TmJ1t">下载</a><br>
 python_curses模块:<br>
+python_curses-2.2.5-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYlJltbA==">下载</a><br>
+python_curses-2.2.5-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWYlJltbQ==">下载</a><br>
+python_curses-2.2.5-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYlJltag==">下载</a><br>
+python_curses-2.2.5-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWYlJltaw==">下载</a><br>
+python_curses-2.2.5-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYlJltaA==">下载</a><br>
+python_curses-2.2.5-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWYlJltaQ==">下载</a><br>
+python_curses-2.2.5-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYlJluZA==">下载</a><br>
+python_curses-2.2.5-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWYlJluZQ==">下载</a><br>
 python_curses-2.2.4-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpaA==">下载</a><br>
 python_curses-2.2.4-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpaQ==">下载</a><br>
 python_curses-2.2.4-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVm5dpZg==">下载</a><br>
@@ -4313,6 +4321,14 @@ python_javabridge-4.0.3-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/br
 python_javabridge-4.0.3-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/Zp2Uk5tw">下载</a><br>
 
 468. python_ldap模块:<br>
+python_ldap-3.4.5-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYlJluZg==">下载</a><br>
+python_ldap-3.4.5-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWYlJluZw==">下载</a><br>
+python_ldap-3.4.5-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYlJlubA==">下载</a><br>
+python_ldap-3.4.5-cp313-cp313-win32.whl =><a href="https://mbd.pub/o/bread/YZWYlJlubQ==">下载</a><br>
+python_ldap-3.4.5-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYlJluag==">下载</a><br>
+python_ldap-3.4.5-cp312-cp312-win32.whl =><a href="https://mbd.pub/o/bread/YZWYlJluaw==">下载</a><br>
+python_ldap-3.4.5-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYlJluaA==">下载</a><br>
+python_ldap-3.4.5-cp311-cp311-win32.whl =><a href="https://mbd.pub/o/bread/YZWYlJluaQ==">下载</a><br>
 python_ldap-3.4.4-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwbQ==">下载</a><br>
 python_ldap-3.4.4-cp314-cp314-win32.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwbA==">下载</a><br>
 python_ldap-3.4.4-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWXlJZwaw==">下载</a><br>
