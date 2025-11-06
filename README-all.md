@@ -1693,12 +1693,13 @@ discretize-0.4.10-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp
 discretize-0.4.10-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/Zp6Tm5Zt">下载</a><br>
 
 109. dlib模块:<br>
+dlib-20.0.0-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59uaQ==">下载</a><br>
+dlib-20.0.0-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWYmphraA==">下载</a><br>
+dlib-20.0.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59uZw==">下载</a><br>
+dlib-20.0.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59uZg==">下载</a><br>
 dlib-20.0.0-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59ubA==">下载</a><br>
 dlib-20.0.0-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59uaw==">下载</a><br>
 dlib-20.0.0-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59uag==">下载</a><br>
-dlib-20.0.0-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59uaQ==">下载</a><br>
-dlib-20.0.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59uZw==">下载</a><br>
-dlib-20.0.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59uZg==">下载</a><br>
 dlib-19.24.9-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59uZQ==">下载</a><br>
 dlib-19.24.9-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59uZA==">下载</a><br>
 dlib-19.24.9-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWVk59tbQ==">下载</a><br>
