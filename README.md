@@ -661,7 +661,8 @@ dlib-19.22.99-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUk
 dlib-19.22.99-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUk5lq">下载</a><br>
 dlib-19.22.99-cp38-cp38-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUk5lp">下载</a><br>
 dlib-19.22.99-cp37-cp37m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyUk5hy">下载</a><br>
-
+dlib-19.21.0-cp38-cp38-win32.whl =><a href="https://mbd.pub/o/bread/YZWZmJ1vaw==">下载</a><br>
+dlib-19.19.0-cp38-cp38-win32.whl =><a href="https://mbd.pub/o/bread/YZWZmJ1vbA==">下载</a><br>
 112. dubins模块:<br>
 dubins-1.0.1-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyYmJZu">下载</a><br>
 dubins-1.0.1-cp39-cp39-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYmJZv">下载</a><br>
