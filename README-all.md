@@ -777,6 +777,7 @@ casa_formats_io-0.1-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/Zp6T
 casuarius-1.1-cp27-none-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6TlZps">下载</a><br>
 casuarius-1.1-cp27-none-win32.whl =><a href="https://mbd.pub/o/bread/Zp6TlZpr">下载</a><br>
 53. causal_conv1d模块:<br>
+causal_conv1d-1.4.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWZmp9qZA==">下载</a><br>
 causal_conv1d-1.5.0.post8-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WlZtt">下载</a><br>
 causal_conv1d-1.4.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WlZts">下载</a><br>
 causal_conv1d-1.3.0-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z52WlZtr">下载</a><br>
@@ -4213,6 +4214,7 @@ mahotas-1.4.9-cp27-cp27m-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyZm5
 mahotas-1.4.9-cp27-cp27m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyZm5pw">下载</a><br>
 
 244. mamba_ssm模块:<br>
+mamba_ssm-2.2.2-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWZmp9qZQ==">下载</a><br>
 mamba_ssm-1.2.0.post1-py3-none-any.whl =><a href="https://mbd.pub/o/bread/Zp2ak5hu">下载</a><br>
 mamba_ssm-1.1.3-py3-none-any.whl =><a href="https://mbd.pub/o/bread/Zp2ak5ht">下载</a><br>
 mamba_ssm-1.1.3-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp2ak5hs">下载</a><br>
